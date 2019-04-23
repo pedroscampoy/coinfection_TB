@@ -1,0 +1,887 @@
+Position 	 noncoding
+2532 	 coding 	 2052..3260	2052	3260	+	402	15607144	dnaN	Rv0002	COG0592L	 II.A.5		nonessential	DNA polymerase III subunit beta
+6140 	 coding 	 5123..7267	5123	7267	+	714	15607147	gyrB	Rv0005	COG0187L	 II.A.5	DR-flq	essential	DNA gyrase subunit B
+9143 	 coding 	 7302..9818	7302	9818	+	838	15607148	gyrA	Rv0006	COG0188L	 II.A.5	DR-flq	nonessential	DNA gyrase subunit A
+13460 	 coding 	 13133..13558	13133	13558	-	141	15607152	-	Rv0010c	-	 II.C.4		nonessential	hypothetical protein
+14251 	 coding 	 14089..14877	14089	14877	+	262	15607154	-	Rv0012	COG3879S	 III.C		nonessential	hypothetical protein
+14401 	 coding 	 14089..14877	14089	14877	+	262	15607154	-	Rv0012	COG3879S	 III.C		nonessential	hypothetical protein
+15117 	 coding 	 14914..15612	14914	15612	+	232	57116682	trpG	Rv0013	COG0512EH	 I.G.2		nonessential	para-aminobenzoate synthase component II
+17608 	 coding 	 17467..18762	17467	18762	-	431	15607157	pknA	Rv0015c	COG0515RTKL	 I.J.3		essential	transmembrane serine/threonine-protein kinase A PKNA (protein kinase A) (STPK A)
+23174 	 coding 	 21637..23181	21637	23181	-	514	15607160	ppp	Rv0018c	COG0631T	 I.J.3		nonessential	serine/threonine phosphatase
+27469 	 coding 	 27443..27594	27443	27594	I				IG22_Rv0022c-Rv0023					
+33457 	 coding 	 33224..33553	33224	33553	+	109	15607172	-	Rv0030	-	 VI		nonessential	hypothetical protein
+33551 	 coding 	 33224..33553	33224	33553	+	109	15607172	-	Rv0030	-	 VI		nonessential	hypothetical protein
+35097 	 coding 	 34295..36610	34295	36610	+	771	15607174	bioF2	Rv0032	COG0156H	 I.G.1		nonessential	8-amino-7-oxononanoate synthase BioF2
+36538 	 coding 	 34295..36610	34295	36610	+	771	15607174	bioF2	Rv0032	COG0156H	 I.G.1		nonessential	8-amino-7-oxononanoate synthase BioF2
+39758 	 coding 	 39056..39829	39056	39829	-	257	15607178	-	Rv0036c	-	 V		nonessential	hypothetical protein
+40162 	 coding 	 39877..41202	39877	41202	-	441	15607179	-	Rv0037c	COG0477GEPR	 II.C.5		nonessential	integral membrane protein
+42281 	 coding 	 42004..42351	42004	42351	-	115	15607181	-	Rv0039c	-	 II.C.5		nonessential	transmembrane protein
+43945 	 coding 	 43562..46471	43562	46471	+	969	15607183	leuS	Rv0041	COG0495J	 II.A.3		essential	leucyl-tRNA synthetase
+49439 	 coding 	 49043..49939	49043	49939	-	298	15607187	-	Rv0045c	COG0596R	 I.H.3		nonessential	hydrolase
+50557 	 coding 	 50021..51124	50021	51124	-	367	15607188	ino1	Rv0046c	COG1260I	 VII		nonessential	myo-inositol-1-phosphate synthase INO1 (inositol 1-phosphate synthetase) (D-glucose 6-phosphate cycloaldolase) (glucose 6-phosphate cyclase) (glucocycloaldolase)
+51949 	 coding 	 51828..52697	51828	52697	-	289	15607190	-	Rv0048c	-	 II.C.5		nonessential	hypothetical protein
+54394 	 coding 	 53663..55699	53663	55699	+	678	57116685	ponA1	Rv0050	COG0744M	 II.C.3		nonessential	bifunctional penicillin-binding protein 1A/1B
+63771 	 coding 	 63200..63892	63200	63892	+	230	15607201	-	Rv0059	-	 VI		nonessential	hypothetical protein
+70267 	 coding 	 68620..71559	68620	71559	+	979	15607206	-	Rv0064	COG1615S	 II.C.5		nonessential	hypothetical protein
+74059 	 coding 	 72274..74511	72274	74511	-	745	15607208	icd2	Rv0066c	COG2838C	 I.B.3		nonessential	isocitrate dehydrogenase [NADP]
+89200 	 coding 	 89022..89480	89022	89480	+	152	15607222	-	Rv0080	-	 V		nonessential	hypothetical protein
+97696 	 coding 	 97602..97757	97602	97757	I				IG89_Rv0088-Rv0089					
+100767 	 coding 	 100583..102868	100583	102868	+	761	15607234	ctpA	Rv0092	COG2217P	 III.A.2		nonessential	cation transporter P-type ATPase A
+101727 	 coding 	 100583..102868	100583	102868	+	761	15607234	ctpA	Rv0092	COG2217P	 III.A.2		nonessential	cation transporter P-type ATPase A
+103600 	 coding 	 102815..103663	102815	103663	-	282	15607235	-	Rv0093c	COG5660S	 II.C.4		nonessential	hypothetical protein
+123520 	 coding 	 122317..123831	122317	123831	+	504	15607246	-	Rv0104	COG0664T	 V		nonessential	hypothetical protein
+126803 	 coding 	 125643..130541	125643	130541	-	1632	15607249	ctpI	Rv0107c	COG0474P	 III.A.2		nonessential	cation-transporter ATPase I
+133445 	 coding 	 133020..133769	133020	133769	+	249	15607252	-	Rv0110	COG0705R	 II.C.5		nonessential	integral membrane protein
+133862 	 coding 	 133770..133949	133770	133949	I				IG111_Rv0110-Rv0111					
+139756 	 coding 	 139674..140266	139674	140266	I				IG116_Rv0115-Rv0116c					
+143207 	 coding 	 142128..143876	142128	143876	-	582	15607260	oxcA	Rv0118c	COG0028EH	 I.A.1		essential	putative oxalyl-CoA decarboxylase
+157292 	 coding 	 156578..157600	156578	157600	-	340	57116693	fbpC	Rv0129c	COG0627R	 I.H.3	DR-inh	nonessential	secreted antigen 85-C FBPC (85C) (antigen 85 complex C) (AG58C) (Mycolyl transferase 85C) (fibronectin-binding protein C)
+162581 	 coding 	 161771..162673	161771	162673	+	300	15607276	ephF	Rv0134	COG0596R	 III.F		nonessential	epoxide hydrolase EphF
+176303 	 coding 	 175700..176668	175700	176668	+	322	15607291	-	Rv0149	COG0604CR	 IV.F		nonessential	quinone oxidoreductase
+176432 	 coding 	 175700..176668	175700	176668	+	322	15607291	-	Rv0149	COG0604CR	 IV.F		nonessential	quinone oxidoreductase
+193475 	 coding 	 193117..193572	193117	193572	+	151	15607305	-	Rv0163	COG0824R	 V		nonessential	hypothetical protein
+195360 	 coding 	 194993..196657	194993	196657	+	554	15607307	fadD5	Rv0166	COG0318IQ	 I.A.3		nonessential	acyl-CoA synthetase
+199470 	 coding 	 198534..199898	198534	199898	+	454	57116701	mce1A	Rv0169	COG0840NT,COG1463Q	 IV.A		essential	MCE-family protein MCE1A
+203269 	 coding 	 202476..204068	202476	204068	+	530	15607313	mce1D	Rv0172	COG1463Q	 IV.A		nonessential	MCE-family protein MCE1D
+207226 	 coding 	 206814..207455	206814	207455	+	213	15607316	-	Rv0175	-	 II.C.5		essential	mce associated membrane protein
+212353 	 coding 	 212277..213011	212277	213011	-	244	15607322	-	Rv0181c	COG1741R	 V		nonessential	hypothetical protein
+217201 	 coding 	 216269..218344	216269	218344	+	691	15607327	bglS	Rv0186	COG1472G	 I.A.1		nonessential	beta-glucosidase
+223752 	 coding 	 223607..223909	223607	223909	+	100	57116703	-	Rv0192A	-	 VI		nonessential	hypothetical protein
+225668 	 coding 	 224724..226571	224724	226571	-	615	15607334	-	Rv0193c	-	 VI		nonessential	hypothetical protein
+228168 	 coding 	 226878..230462	226878	230462	+	1194	15607335	-	Rv0194	COG1132V	 II.C.5		nonessential	drugs-transport transmembrane ATP-binding protein ABC transporter
+233358 	 coding 	 232231..234519	232231	234519	+	762	15607338	-	Rv0197	COG0243C	 I.B.7		nonessential	oxidoreductase
+233364 	 coding 	 232231..234519	232231	234519	+	762	15607338	-	Rv0197	COG0243C	 I.B.7		nonessential	oxidoreductase
+234051 	 coding 	 232231..234519	232231	234519	+	762	15607338	-	Rv0197	COG0243C	 I.B.7		nonessential	oxidoreductase
+243598 	 coding 	 243384..244487	243384	244487	+	367	15607346	-	Rv0205	COG0628R	 II.C.5		essential	transmembrane protein
+249522 	 coding 	 249038..250123	249038	250123	+	361	15607350	-	Rv0209	-	 VI		nonessential	hypothetical protein
+251575 	 coding 	 250120..251598	250120	251598	+	492	15607351	-	Rv0210	-	 VI		nonessential	hypothetical protein
+251669 	 coding 	 251599..251781	251599	251781	I				IG212_Rv0210-Rv0211					
+260282 	 coding 	 259923..260831	259923	260831	-	302	15607358	lipW	Rv0217c	COG0657I	 II.B.5		nonessential	esterase LipW
+282188 	 coding 	 281166..282614	281166	282614	-	482	15607376	-	Rv0235c	-	 II.C.5		nonessential	transmembrane protein
+294920 	 coding 	 293798..295633	293798	295633	-	611	15607385	fadE5	Rv0244c	COG1960I	 I.A.3		nonessential	acyl-CoA dehydrogenase FADE5
+304923 	 coding 	 302866..305427	302866	305427	+	853	15607393	nirB	Rv0252	COG1251C	 I.B.6b		nonessential	nitrite reductase large subunit
+309765 	 coding 	 309699..310073	309699	310073	+	124	57116709	-	Rv0257	-	 V		nonessential	hypothetical protein
+316129 	 coding 	 315783..316415	315783	316415	-	210	15607405	-	Rv0264c	COG2049E	 V		nonessential	hypothetical protein
+320180 	 coding 	 317525..321154	317525	321154	-	1209	15607407	oplA	Rv0266c	COG0145EQ,COG0146EQ	 IV.I		nonessential	5-oxoprolinase
+324968 	 coding 	 324567..326249	324567	326249	+	560	15607411	fadD2	Rv0270	COG0318IQ	 I.A.3		nonessential	acyl-CoA synthetase
+325505 	 coding 	 324567..326249	324567	326249	+	560	15607411	fadD2	Rv0270	COG0318IQ	 I.A.3		nonessential	acyl-CoA synthetase
+333212 	 coding 	 333137..333436	333137	333436	I				IG280_Rv0277c-Rv0278c					
+333292 	 coding 	 333137..333436	333137	333436	I				IG280_Rv0277c-Rv0278c					
+342146 	 coding 	 342130..344025	342130	344025	+	631	15607423	-	Rv0282	COG0464O	 V		essential	hypothetical protein
+343281 	 coding 	 342130..344025	342130	344025	+	631	15607423	-	Rv0282	COG0464O	 V		essential	hypothetical protein
+365607 	 coding 	 365234..366142	365234	366142	+	302	15607444	-	Rv0303	COG1028IQR	 VI		nonessential	dehydrogenase/reductase
+381030 	 coding 	 380556..382418	380556	382418	+	620	15607453	-	Rv0312	COG0443O	 V		essential	hypothetical protein
+391853 	 coding 	 391352..392032	391352	392032	+	226	15607465	-	Rv0324	COG0607P,COG0640K	 I.J.1		nonessential	ArsR family transcriptional regulator
+392261 	 coding 	 392039..392263	392039	392263	+	74	15607466	-	Rv0325	COG0500QR	 VI		nonessential	hypothetical protein
+402528 	 coding 	 401873..403162	401873	403162	-	429	15607478	aspC	Rv0337c	COG0436E	 I.D.2		essential	aminotransferase AlaT
+408723 	 coding 	 408634..409173	408634	409173	+	179	15607481	-	Rv0340	-	 V	DR-emb-inh	nonessential	hypothetical protein
+412280 	 coding 	 410838..412760	410838	412760	+	640	15607483	iniA	Rv0342	COG0699R	 VI	DR-emb-inh	nonessential	isoniazid inductible gene protein INIA
+422745 	 coding 	 422452..423639	422452	423639	+	395	57116724	dnaJ1	Rv0352	COG0484O	 III.B		essential	chaperone protein DnaJ1
+438271 	 coding 	 437518..438297	437518	438297	+	259	15607500	-	Rv0359	COG1994R	 II.C.5		nonessential	integral membrane protein
+444351 	 coding 	 444222..444815	444222	444815	-	197	15607507	-	Rv0366c	COG4185S	 V		nonessential	hypothetical protein
+445780 	 coding 	 445314..446525	445314	446525	-	403	15607509	-	Rv0368c	COG3552R	 V		nonessential	hypothetical protein
+447442 	 coding 	 447147..448043	447147	448043	-	298	15607511	-	Rv0370c	COG0714R	 I.B.7		nonessential	oxidoreductase
+447755 	 coding 	 447147..448043	447147	448043	-	298	15607511	-	Rv0370c	COG0714R	 I.B.7		nonessential	oxidoreductase
+455325 	 coding 	 454421..455386	454421	455386	+	321	15607518	-	Rv0377	COG0583K	 I.J.1		nonessential	LysR family transcriptional regulator
+455329 	 coding 	 454421..455386	454421	455386	+	321	15607518	-	Rv0377	COG0583K	 I.J.1		nonessential	LysR family transcriptional regulator
+468357 	 coding 	 468335..469594	468335	469594	+	419	15607530	purT	Rv0389	COG0027F	 I.F.1		nonessential	phosphoribosylglycinamide formyltransferase 2
+472705 	 coding 	 472640..472780	472640	472780	I				IG395_Rv0392c-Rv0393					
+478358 	 coding 	 477327..478556	477327	478556	-	409	15607540	lpqK	Rv0399c	COG1680V	 II.C.1		essential	lipoprotein LpqK
+483935 	 coding 	 483657..483976	483657	483976	I				IG406_Rv0403c-Rv0404					
+491742 	 coding 	 490783..491793	490783	491793	+	336	15607548	fgd1	Rv0407	COG2141C	 I.B.7		nonessential	F420-dependent glucose-6-phosphate dehydrogenase
+492150 	 coding 	 491786..493858	491786	493858	+	690	15607549	pta	Rv0408	COG0280C,COG0857R	 I.A.1		nonessential	phosphate acetyltransferase
+498531 	 coding 	 498300..499619	498300	499619	-	439	15607553	-	Rv0412c	-	 II.C.5		essential	hypothetical protein
+501882 	 coding 	 501148..502170	501148	502170	+	340	15607556	thiO	Rv0415	COG0665E	 I.B.7		essential	thiamine biosynthesis oxidoreductase ThiO
+505974 	 coding 	 505086..506582	505086	506582	+	498	15607560	lpqM	Rv0419	COG2321R	 II.C.1		nonessential	lipoprotein peptidase LpqM
+514657 	 coding 	 510702..515321	510702	515321	-	1539	15607566	ctpH	Rv0425c	COG0474P	 III.A.2		essential	metal cation transporting P-type ATPase CtpH
+517358 	 coding 	 516895..517803	516895	517803	-	302	15607569	-	Rv0428c	COG0454KR	 VI		nonessential	hypothetical protein
+517411 	 coding 	 516895..517803	516895	517803	-	302	15607569	-	Rv0428c	COG0454KR	 VI		nonessential	hypothetical protein
+519185 	 coding 	 519073..519567	519073	519567	+	164	15607572	-	Rv0431	-	 II.C.2		nonessential	putative tuberculin related peptide
+522081 	 coding 	 521514..522167	521514	522167	+	217	15607575	-	Rv0434	COG2802R	 V		nonessential	hypothetical protein
+524891 	 coding 	 524530..525390	524530	525390	-	286	15607577	pssA	Rv0436c	COG1183I	 I.H.3		nonessential	CDP-diacylglycerol--serine O-phosphatidyltransferase
+527316 	 coding 	 526143..527360	526143	527360	-	405	57116730	moeA2	Rv0438c	COG0303H	 I.G.4		nonessential	molybdopterin biosynthesis protein MoeA2
+528354 	 coding 	 528315..528607	528315	528607	I				IG442_Rv0439c-Rv0440					
+534427 	 coding 	 534397..534444	534397	534444	I				IG448_Rv0445c-Rv0446c					
+534691 	 coding 	 534445..535215	534445	535215	-	256	15607587	-	Rv0446c	COG3752S	 II.C.5		nonessential	transmembrane protein
+546357 	 coding 	 545889..546803	545889	546803	-	304	15607597	echA2	Rv0456c	COG1024I	 V		nonessential	enoyl-CoA hydratase
+555991 	 coding 	 554882..556306	554882	556306	-	474	15607606	-	Rv0465c	COG1396K,COG3800R	 I.J.1		nonessential	transcriptional regulatory protein
+557133 	 coding 	 556458..557252	556458	557252	+	264	15607607	-	Rv0466	COG3884I	 V		nonessential	hypothetical protein
+563420 	 coding 	 562723..563427	562723	563427	-	234	15607613	-	Rv0472c	COG1309K	 I.J.1		nonessential	TetR family transcriptional regulator
+565404 	 coding 	 565021..565443	565021	565443	+	140	15607615	-	Rv0474	COG1396K	 I.J.1		nonessential	transcriptional regulatory protein
+565655 	 coding 	 565444..565796	565444	565796	I				IG479_Rv0474-Rv0475					
+571943 	 coding 	 571710..573065	571710	573065	+	451	15607624	lprQ	Rv0483	COG1376S	 II.C.1		nonessential	lipoprotein LprQ
+573326 	 coding 	 573046..573801	573046	573801	-	251	15607625	-	Rv0484c	COG4221R	 I.B.7		nonessential	short-chain type oxidoreductase
+573384 	 coding 	 573046..573801	573046	573801	-	251	15607625	-	Rv0484c	COG4221R	 I.B.7		nonessential	short-chain type oxidoreductase
+584171 	 coding 	 583701..584690	583701	584690	-	329	15607634	-	Rv0493c	-	 V		nonessential	hypothetical protein
+584511 	 coding 	 583701..584690	583701	584690	-	329	15607634	-	Rv0493c	-	 V		nonessential	hypothetical protein
+589536 	 coding 	 589183..590058	589183	590058	+	291	15607640	-	Rv0499	COG1155C	 V		nonessential	hypothetical protein
+590763 	 coding 	 590083..590970	590083	590970	+	295	15607641	proC	Rv0500	COG0345E	 I.D.1		essential	pyrroline-5-carboxylate reductase
+599868 	 coding 	 597199..600105	597199	600105	+	968	15607648	mmpL2	Rv0507	COG2409R	 II.C.4		nonessential	transmembrane transport protein MmpL2
+608225 	 coding 	 608059..608535	608059	608535	-	158	15607657	-	Rv0516c	COG1366T	 V		nonessential	hypothetical protein
+618771 	 coding 	 618305..619894	618305	619894	+	529	15607668	-	Rv0528	COG1333O	 II.C.5		essential	transmembrane protein
+632330 	 coding 	 631743..632375	631743	632375	+	210	15607679	-	Rv0539	COG0463M	 IV.H		nonessential	dolichyl-phosphate sugar synthase
+637922 	 coding 	 637583..637969	637583	637969	-	128	15607686	-	Rv0546c	COG0346E	 V		nonessential	hypothetical protein
+648856 	 coding 	 648536..649672	648536	649672	+	378	15607697	pimB	Rv0557	COG0438M	 IV.H		essential	mannosyltransferase PIMB
+655986 	 coding 	 655950..656009	655950	656009	I				IG572_Rv0564c-Rv0565c					
+657578 	 coding 	 657548..658039	657548	658039	-	163	15607706	-	Rv0566c	COG1666S	 V		essential	nucleotide-binding protein
+658219 	 coding 	 658040..658320	658040	658320	I				IG574_Rv0566c-Rv0567					
+659341 	 coding 	 659341..659449	659341	659449	I				IG575_Rv0567-Rv0568					
+661798 	 coding 	 661295..663373	661295	663373	+	692	15607710	nrdZ	Rv0570	COG0209F	 I.F.3		nonessential	ribonucleoside-diphosphate reductase large subunit NrdZ
+662911 	 coding 	 661295..663373	661295	663373	+	692	15607710	nrdZ	Rv0570	COG0209F	 I.F.3		nonessential	ribonucleoside-diphosphate reductase large subunit NrdZ
+664249 	 coding 	 663487..664818	663487	664818	-	443	15607711	-	Rv0571c	COG0596R,COG1926R,COG2267I	 V		nonessential	hypothetical protein
+667659 	 coding 	 667252..668394	667252	668394	-	380	15607714	-	Rv0574c	COG2843M	 V		nonessential	hypothetical protein
+670545 	 coding 	 669848..671152	669848	671152	+	434	15607716	-	Rv0576	COG0640K,COG3832S	 I.J.1		nonessential	ArsR family transcriptional regulator
+684290 	 coding 	 684273..684409	684273	684409	I				IG593_Rv0585c-Rv0586					
+690248 	 coding 	 689059..690504	689059	690504	+	481	15607731	mce2C	Rv0591	COG1463Q	 IV.A		nonessential	MCE-family protein MCE2C
+690450 	 coding 	 689059..690504	689059	690504	+	481	15607731	mce2C	Rv0591	COG1463Q	 IV.A		nonessential	MCE-family protein MCE2C
+700776 	 coding 	 700239..701189	700239	701189	+	316	15607744	lpqO	Rv0604	-	 II.C.1		nonessential	lipoprotein lpqo
+705602 	 coding 	 704752..705909	704752	705909	-	385	15607750	-	Rv0610c	-	 VI		nonessential	hypothetical protein
+709206 	 coding 	 706948..709515	706948	709515	-	855	15607753	-	Rv0613c	COG0653U	 VI		nonessential	hypothetical protein
+709207 	 coding 	 706948..709515	706948	709515	-	855	15607753	-	Rv0613c	COG0653U	 VI		nonessential	hypothetical protein
+709226 	 coding 	 706948..709515	706948	709515	-	855	15607753	-	Rv0613c	COG0653U	 VI		nonessential	hypothetical protein
+712693 	 coding 	 712174..712719	712174	712719	+	181	57116761	galTb	Rv0619	COG1085C	 I.A.1		nonessential	galactose-1-phosphate uridylyltransferase GalTb
+713310 	 coding 	 712716..713807	712716	713807	+	363	15607760	galK	Rv0620	COG0153G	 I.A.1		nonessential	galactokinase
+715266 	 coding 	 714202..715266	714202	715266	+	354	15607761	-	Rv0621	COG0120G	 II.C.5		nonessential	hypothetical protein
+717588 	 coding 	 717153..717893	717153	717893	-	246	15607765	-	Rv0625c	COG0398S	 II.C.5		nonessential	transmembrane protein
+726703 	 coding 	 725013..728306	725013	728306	-	1097	15607771	recC	Rv0631c	COG1330L	 II.A.5		nonessential	exonuclease V gamma chain
+733798 	 coding 	 733737..734222	733737	734222	+	161	57116765	secE	Rv0638	COG0690U	 III.D		essential	preprotein translocase subunit SecE
+736710 	 coding 	 736298..737203	736298	737203	-	301	15607782	mmaA4	Rv0642c	COG2230M	 I.H.2		nonessential	methoxy mycolic acid synthase
+752343 	 coding 	 751517..752596	751517	752596	+	359	15607795	mkl	Rv0655	COG1127Q	 III.A		essential	ribonucleotide ABC transporter ATP-binding protein
+756758 	 coding 	 756137..758500	756137	758500	+	787	15607803	atsD	Rv0663	COG3119P	 I.C.5		nonessential	arylsulfatase AtsD
+757182 	 coding 	 756137..758500	756137	758500	+	787	15607803	atsD	Rv0663	COG3119P	 I.C.5		nonessential	arylsulfatase AtsD
+761155 	 coding 	 759807..763325	759807	763325	+	1172	15607807	rpoB	Rv0667	COG0085K	 II.A.7	DR-rif	essential	DNA-directed RNA polymerase subunit beta
+763031 	 coding 	 759807..763325	759807	763325	+	1172	15607807	rpoB	Rv0667	COG0085K	 II.A.7	DR-rif	essential	DNA-directed RNA polymerase subunit beta
+764918 	 coding 	 763370..767320	763370	767320	+	1316	15607808	rpoC	Rv0668	COG0086K	 II.A.7		essential	DNA-directed RNA polymerase subunit beta'
+764995 	 coding 	 763370..767320	763370	767320	+	1316	15607808	rpoC	Rv0668	COG0086K	 II.A.7		essential	DNA-directed RNA polymerase subunit beta'
+767414 	 coding 	 767321..767683	767321	767683	I				IG680_Rv0668-Rv0669c					
+773431 	 coding 	 773123..774061	773123	774061	+	312	15607813	echA4	Rv0673	COG1024I	 I.A.3		nonessential	enoyl-CoA hydratase
+773809 	 coding 	 773123..774061	773123	774061	+	312	15607813	echA4	Rv0673	COG1024I	 I.A.3		nonessential	enoyl-CoA hydratase
+776100 	 coding 	 775586..778480	775586	778480	-	964	15607816	mmpL5	Rv0676c	COG2409R	 II.C.4		nonessential	transmembrane transport protein MmpL5
+784440 	 coding 	 782485..784590	782485	784590	+	701	57116768	fusA1	Rv0684	COG0480J	 II.A.6		essential	elongation factor G
+790180 	 coding 	 790024..791073	790024	791073	-	349	15607830	-	Rv0690c	COG4427S	 V		nonessential	hypothetical protein
+796509 	 coding 	 795519..796931	795519	796931	+	470	15607836	-	Rv0696	COG0463M	 II.C.5		nonessential	membrane sugar transferase
+815236 	 coding 	 815190..815630	815190	815630	+	146	15607863	rplO	Rv0723	COG0200J	 II.A.1		nonessential	50S ribosomal protein L15
+815835 	 coding 	 815663..817534	815663	817534	+	623	15607864	sppA	Rv0724	COG0616OU	 II.B.3		nonessential	protease IV SppA
+815851 	 coding 	 815663..817534	815663	817534	+	623	15607864	sppA	Rv0724	COG0616OU	 II.B.3		nonessential	protease IV SppA
+820752 	 coding 	 820496..821476	820496	821476	-	326	15607868	serA2	Rv0728c	COG0111HE	 I.B.7		nonessential	D-3-phosphoglycerate dehydrogenase
+821907 	 coding 	 821507..822853	821507	822853	+	448	15607869	xylB	Rv0729	COG1070G	 I.A.1		nonessential	D-xylulose kinase XylB
+832201 	 coding 	 831776..832303	831776	832303	+	175	15607880	-	Rv0740	-	 V		nonessential	hypothetical protein
+832246 	 coding 	 831776..832303	831776	832303	+	175	15607880	-	Rv0740	-	 V		nonessential	hypothetical protein
+847995 	 coding 	 847914..848102	847914	848102	I				IG768_Rv0754-Rv0755c					
+867545 	 coding 	 867440..868351	867440	868351	-	303	57116780	-	Rv0774c	COG0627R	 VI		nonessential	hypothetical protein
+871271 	 coding 	 870008..871426	870008	871426	+	472	15607917	purB	Rv0777	COG0015F	 I.F.1		nonessential	adenylosuccinate lyase
+876451 	 coding 	 876391..876817	876391	876817	I				IG797_Rv0782-Rv0783c					
+885542 	 coding 	 884797..885840	884797	885840	-	347	15607931	-	Rv0791c	COG2141C	 V		nonessential	hypothetical protein
+894888 	 coding 	 894631..894978	894631	894978	+	115	15607941	-	Rv0801	-	 V		nonessential	hypothetical protein
+909280 	 coding 	 908485..909318	908485	909318	-	277	15607955	cysA2	Rv0815c	COG2897P	 I.D.3		nonessential	thiosulfate sulfurtransferase CysA2
+910243 	 coding 	 910030..910842	910030	910842	-	270	15607957	-	Rv0817c	-	 VI		essential	hypothetical protein
+911261 	 coding 	 910972..911739	910972	911739	+	255	15607958	-	Rv0818	COG0745TK	 I.J.2		nonessential	transcriptional regulatory protein
+912267 	 coding 	 911736..912683	911736	912683	+	315	15607959	-	Rv0819	COG0456R	 V		nonessential	hypothetical protein
+913274 	 coding 	 912726..913502	912726	913502	+	258	15607960	phoT	Rv0820	COG1117P	 III.A.4		nonessential	phosphate ABC transporter ATP-binding protein
+916046 	 coding 	 914257..916311	914257	916311	-	684	15607962	-	Rv0822c	COG1316K	 V		nonessential	hypothetical protein
+924872 	 coding 	 923710..924950	923710	924950	I				IG847_Rv0831c-Rv0832					
+931123 	 coding 	 930953..931597	930953	931597	+	214	15607975	lpqQ	Rv0835	-	 II.C.1		nonessential	lipoprotein LpqQ
+932280 	 coding 	 932279..932932	932279	932932	-	217	15607976	-	Rv0836c	COG4849S	 VI		nonessential	hypothetical protein
+933699 	 coding 	 933003..934031	933003	934031	-	342	15607977	-	Rv0837c	COG4861S	 VI		nonessential	hypothetical protein
+934230 	 coding 	 934032..934719	934032	934719	I				IG853_Rv0837c-Rv0838					
+934611 	 coding 	 934032..934719	934032	934719	I				IG853_Rv0837c-Rv0838					
+938246 	 coding 	 938112..939404	938112	939404	+	430	15607982	-	Rv0842	-	 II.C.5		nonessential	integral membrane protein
+938818 	 coding 	 938112..939404	938112	939404	+	430	15607982	-	Rv0842	-	 II.C.5		nonessential	integral membrane protein
+941845 	 coding 	 941190..942467	941190	942467	+	425	15607985	-	Rv0845	COG4585T	 I.J.2		nonessential	two component sensor kinase
+942479 	 coding 	 942468..942679	942468	942679	I				IG861_Rv0845-Rv0846c					
+948294 	 coding 	 947641..948468	947641	948468	-	275	15607991	-	Rv0851c	COG1028IQR	 VI		nonessential	short chain dehydrogenase
+951142 	 coding 	 951119..951182	951119	951182	I				IG869_Rv0853c-Rv0854					
+957117 	 coding 	 956293..958455	956293	958455	+	720	15608000	fadB	Rv0860	COG1024I,COG1250I	 I.A.3		nonessential	fatty oxidation protein FadB
+960367 	 coding 	 960342..962612	960342	962612	-	756	15608002	-	Rv0862c	-	 V		nonessential	hypothetical protein
+990533 	 coding 	 989948..992596	989948	992596	-	882	15608030	-	Rv0890c	COG2771K,COG3903R	 I.J.1		nonessential	LuxR family transcriptional regulator
+996982 	 coding 	 996524..997705	996524	997705	+	393	15608034	-	Rv0894	COG3903R	 I.J.1		essential	LuxR family transcriptional regulator
+997130 	 coding 	 996524..997705	996524	997705	+	393	15608034	-	Rv0894	COG3903R	 I.J.1		essential	LuxR family transcriptional regulator
+1000294 	 coding 	 999472..1000767	999472	1000767	+	431	15608036	gltA	Rv0896	COG0372C	 I.B.3		nonessential	type II citrate synthase
+1014815 	 coding 	 1014681..1014860	1014681	1014860	+	59	15608049	-	Rv0909	-	 V		nonessential	hypothetical protein
+1024346 	 coding 	 1024211..1024687	1024211	1024687	+	158	15608058	-	Rv0918	COG4453S	 V		nonessential	hypothetical protein
+1037355 	 coding 	 1036999..1037925	1036999	1037925	+	308	57116799	pstA1	Rv0930	COG0581P	 III.A.4		nonessential	phosphate ABC transporter transmembrane protein
+1040706 	 coding 	 1039936..1041048	1039936	1041048	-	370	57116800	pstS2	Rv0932c	COG0226P	 III.A.4		nonessential	periplasmic phosphate-binding lipoprotein PSTS2 (PBP-2) (PSTS2)
+1041445 	 coding 	 1041264..1042094	1041264	1042094	+	276	15608073	pstB	Rv0933	COG1117P	 III.A.4		nonessential	phosphate ABC transporter ATP-binding protein
+1054784 	 coding 	 1054247..1055008	1054247	1055008	+	253	15608085	-	Rv0945	COG1028IQR	 VI		nonessential	short chain dehydrogenase
+1055049 	 coding 	 1055024..1056685	1055024	1056685	-	553	15608086	pgi	Rv0946c	COG0166G	 I.B.1		essential	glucose-6-phosphate isomerase
+1057788 	 coding 	 1057646..1057963	1057646	1057963	-	105	15608088	-	Rv0948c	COG1605E	 V		nonessential	hypothetical protein
+1063765 	 coding 	 1063140..1064051	1063140	1064051	+	303	15608092	sucD	Rv0952	COG0074C	 I.B.3		essential	succinyl-CoA synthetase subunit alpha
+1071797 	 coding 	 1071255..1073273	1071255	1073273	+	672	15608099	-	Rv0959	COG4867R	 V		nonessential	hypothetical protein
+1080192 	 coding 	 1078743..1081055	1078743	1081055	+	770	15608109	ctpV	Rv0969	COG2217P	 III.A.2		nonessential	metal cation transporter P-type ATPase CtpV
+1093322 	 coding 	 1093145..1093360	1093145	1093360	I				IG992_Rv0977-Rv0978c					
+1094413 	 coding 	 1094357..1094669	1094357	1094669	I				IG993_Rv0978c-Rv0979c					
+1094415 	 coding 	 1094357..1094669	1094357	1094669	I				IG993_Rv0978c-Rv0979c					
+1096633 	 coding 	 1096452..1096815	1096452	1096815	I				IG996_Rv0980c-Rv0981					
+1097023 	 coding 	 1096816..1097508	1096816	1097508	+	230	15608121	mprA	Rv0981	COG0745TK	 I.J.2		nonessential	two component response transcriptional regulatory protein MprA
+1098523 	 coding 	 1097508..1099022	1097508	1099022	+	504	15608122	mprB	Rv0982	COG0642T	 I.J.2		essential	two component sensor kinase MprB
+1103249 	 coding 	 1102542..1105109	1102542	1105109	+	855	15608127	-	Rv0987	COG0577V	 II.C.5		nonessential	adhesion component transport transmembrane protein ABC transporter
+1104690 	 coding 	 1102542..1105109	1102542	1105109	+	855	15608127	-	Rv0987	COG0577V	 II.C.5		nonessential	adhesion component transport transmembrane protein ABC transporter
+1105284 	 coding 	 1105116..1106276	1105116	1106276	+	386	15608128	-	Rv0988	COG5621R	 VI		nonessential	hypothetical protein
+1107434 	 coding 	 1107383..1107442	1107383	1107442	I				IG1005_Rv0989c-Rv0990c					
+1107917 	 coding 	 1107443..1108099	1107443	1108099	-	218	15608130	-	Rv0990c	-	 VI		nonessential	hypothetical protein
+1107940 	 coding 	 1107443..1108099	1107443	1108099	-	218	15608130	-	Rv0990c	-	 VI		nonessential	hypothetical protein
+1109163 	 coding 	 1108578..1109171	1108578	1109171	-	197	15608132	-	Rv0992c	COG0212H	 V		nonessential	hypothetical protein
+1110956 	 coding 	 1110269..1111549	1110269	1111549	+	426	57116810	moeA1	Rv0994	COG0303H	 I.G.4		nonessential	molybdopterin biosynthesis protein MoeA1
+1113290 	 coding 	 1112384..1113460	1112384	1113460	+	358	15608136	-	Rv0996	-	 II.C.5		nonessential	transmembrane protein
+1121940 	 coding 	 1120889..1122148	1120889	1122148	-	419	15608144	-	Rv1004c	-	 II.C.5		nonessential	hypothetical protein
+1123597 	 coding 	 1122222..1123598	1122222	1123598	-	458	15608145	pabB	Rv1005c	COG0147EH	 I.G.2		essential	para-aminobenzoate synthase component I
+1123999 	 coding 	 1123714..1125417	1123714	1125417	+	567	15608146	-	Rv1006	-	 VI		nonessential	hypothetical protein
+1131300 	 coding 	 1131128..1131421	1131128	1131421	+	97	15608152	-	Rv1012	-	 VI		nonessential	hypothetical protein
+1132368 	 coding 	 1131625..1133259	1131625	1133259	+	544	15608153	pks16	Rv1013	COG0318IQ	 I.I		essential	acyl-CoA synthetase
+1136269 	 coding 	 1135501..1136481	1135501	1136481	-	326	15608157	prsA	Rv1017c	COG0462FE	 I.F.1		essential	ribose-phosphate pyrophosphokinase
+1142266 	 coding 	 1138967..1142671	1138967	1142671	+	1234	15608160	mfd	Rv1020	COG1197LK	 II.A.5		nonessential	transcription-repair coupling factor Mfd (TRCF)
+1143832 	 coding 	 1143736..1144467	1143736	1144467	+	243	15608162	lpqU	Rv1022	COG2951M	 II.C.1		nonessential	lipoprotein LpqU
+1144585 	 coding 	 1144564..1145853	1144564	1145853	+	429	15608163	eno	Rv1023	COG0148G	 I.B.1		essential	phosphopyruvate hydratase
+1148259 	 coding 	 1147979..1148426	1147979	1148426	I				IG1042_Rv1026-Rv1027c					
+1160770 	 coding 	 1160544..1160828	1160544	1160828	-	94	15608177	esxI	Rv1037c	-	 VI		nonessential	putative ESAT-6 like protein ESXI (ESAT-6 like protein 1)
+1164336 	 coding 	 1163377..1164571	1163377	1164571	I				IG1057_Rv1040c-Rv1041c					
+1183834 	 coding 	 1183508..1183981	1183508	1183981	+	157	15608200	-	Rv1060	-	 VI		nonessential	hypothetical protein
+1187439 	 coding 	 1187435..1188001	1187435	1188001	+	188	15608205	-	Rv1065	-	 V		nonessential	hypothetical protein
+1199547 	 coding 	 1199426..1200370	1199426	1200370	-	314	15608215	-	Rv1075c	COG2755E	 VI		nonessential	hypothetical protein
+1201289 	 coding 	 1200767..1201660	1200767	1201660	+	297	15608216	lipU	Rv1076	COG0657I	 II.B.5		nonessential	lipase LipU
+1203824 	 coding 	 1203313..1204035	1203313	1204035	+	240	15608218	pra	Rv1078	COG1714S	 VI		nonessential	proline-rich antigen
+1206400 	 coding 	 1205984..1206418	1205984	1206418	-	144	15608221	-	Rv1081c	-	 II.C.4		nonessential	hypothetical protein
+1211369 	 coding 	 1210595..1211383	1210595	1211383	+	262	15608226	-	Rv1086	COG0020I	 IV.H		nonessential	short (C15) chain Z-isoprenyl diphosphate synthase (Z-FPP synthase) (Z-farnesyl diphosphate synthase) (Z-FPP synthetase) (Z-farnesyl diphosphate synthetase) (geranyltranstransferase) (farnesyl pyrophosphate synthetase)
+1220570 	 coding 	 1220187..1220573	1220187	1220573	I				IG1111_Rv1092c-Rv1093					
+1230778 	 coding 	 1230660..1230971	1230660	1230971	-	103	15608242	-	Rv1102c	COG2337T	 V		nonessential	hypothetical protein
+1235446 	 coding 	 1234213..1235460	1234213	1235460	-	415	15608248	xseA	Rv1108c	COG1570L	 II.B.2		nonessential	exodeoxyribonuclease VII large subunit
+1248382 	 coding 	 1248082..1249326	1248082	1249326	+	414	15608265	-	Rv1125	COG0624E	 V		nonessential	hypothetical protein
+1248936 	 coding 	 1248082..1249326	1248082	1249326	+	414	15608265	-	Rv1125	COG0624E	 V		nonessential	hypothetical protein
+1250340 	 coding 	 1249932..1251404	1249932	1251404	-	490	15608267	ppdK	Rv1127c	COG0574G	 I.C.1		nonessential	pyruvate phosphate dikinase
+1250357 	 coding 	 1249932..1251404	1249932	1251404	-	490	15608267	ppdK	Rv1127c	COG0574G	 I.C.1		nonessential	pyruvate phosphate dikinase
+1251111 	 coding 	 1249932..1251404	1249932	1251404	-	490	15608267	ppdK	Rv1127c	COG0574G	 I.C.1		nonessential	pyruvate phosphate dikinase
+1251199 	 coding 	 1249932..1251404	1249932	1251404	-	490	15608267	ppdK	Rv1127c	COG0574G	 I.C.1		nonessential	pyruvate phosphate dikinase
+1254562 	 coding 	 1254555..1256135	1254555	1256135	+	526	15608270	-	Rv1130	COG2079R	 V		nonessential	hypothetical protein
+1259011 	 coding 	 1257325..1259055	1257325	1259055	+	576	15608272	-	Rv1132	-	 II.C.5		nonessential	hypothetical protein
+1267195 	 coding 	 1266986..1267346	1266986	1267346	I				IG1160_Rv1139c-Rv1140					
+1267253 	 coding 	 1266986..1267346	1266986	1267346	I				IG1160_Rv1139c-Rv1140					
+1275957 	 coding 	 1275551..1276299	1275551	1276299	I				IG1168_Rv1147-Rv1148c					
+1281443 	 coding 	 1281429..1281872	1281429	1281872	+	147	15608295	-	Rv1155	-	 V		nonessential	hypothetical protein
+1281771 	 coding 	 1281429..1281872	1281429	1281872	+	147	15608295	-	Rv1155	-	 V		nonessential	hypothetical protein
+1287112 	 coding 	 1287021..1287327	1287021	1287327	I				IG1181_Rv1160-Rv1161					
+1292857 	 coding 	 1292798..1293403	1292798	1293403	+	201	15608303	narJ	Rv1163	COG2180C	 I.B.6b		nonessential	respiratory nitrate reductase subunit delta NarJ
+1295129 	 coding 	 1294168..1296054	1294168	1296054	+	628	15608305	typA	Rv1165	COG1217T	 VI		nonessential	GTP-binding translation elongation factor TypA
+1297327 	 coding 	 1296152..1298059	1296152	1298059	+	635	15608306	lpqW	Rv1166	COG0747E	 II.C.1		essential	lipoprotein LpqW
+1297999 	 coding 	 1296152..1298059	1296152	1298059	+	635	15608306	lpqW	Rv1166	COG0747E	 II.C.1		essential	lipoprotein LpqW
+1306259 	 coding 	 1306202..1308226	1306202	1308226	-	674	15608315	fadH	Rv1175c	COG0446R,COG1902C	 I.A.3		nonessential	NADPH dependent 2,4-dienoyl-CoA reductase
+1310316 	 coding 	 1309364..1310452	1309364	1310452	+	362	15608318	-	Rv1178	COG0436E	 IV.H		nonessential	N-succinyldiaminopimelate aminotransferase
+1341023 	 coding 	 1341006..1341290	1341006	1341290	+	94	15608338	esxL	Rv1198	-	 VI		nonessential	putative ESAT-6 like protein ESXL (ESAT-6 like protein 4)
+1341040 	 coding 	 1341006..1341290	1341006	1341290	+	94	15608338	esxL	Rv1198	-	 VI		nonessential	putative ESAT-6 like protein ESXL (ESAT-6 like protein 4)
+1341099 	 coding 	 1341006..1341290	1341006	1341290	+	94	15608338	esxL	Rv1198	-	 VI		nonessential	putative ESAT-6 like protein ESXL (ESAT-6 like protein 4)
+1341114 	 coding 	 1341006..1341290	1341006	1341290	+	94	15608338	esxL	Rv1198	-	 VI		nonessential	putative ESAT-6 like protein ESXL (ESAT-6 like protein 4)
+1341120 	 coding 	 1341006..1341290	1341006	1341290	+	94	15608338	esxL	Rv1198	-	 VI		nonessential	putative ESAT-6 like protein ESXL (ESAT-6 like protein 4)
+1341148 	 coding 	 1341006..1341290	1341006	1341290	+	94	15608338	esxL	Rv1198	-	 VI		nonessential	putative ESAT-6 like protein ESXL (ESAT-6 like protein 4)
+1341152 	 coding 	 1341006..1341290	1341006	1341290	+	94	15608338	esxL	Rv1198	-	 VI		nonessential	putative ESAT-6 like protein ESXL (ESAT-6 like protein 4)
+1351172 	 coding 	 1351126..1351190	1351126	1351190	I				IG1227_Rv1206-Rv1207					
+1354437 	 coding 	 1354243..1354470	1354243	1354470	+	75	15608351	-	Rv1211	-	 V		essential	hypothetical protein
+1358940 	 coding 	 1357759..1359444	1357759	1359444	-	561	15608355	-	Rv1215c	COG2936R	 V		essential	hypothetical protein
+1362006 	 coding 	 1361798..1362733	1361798	1362733	-	311	15608358	-	Rv1218c	COG1131V	 III.A		nonessential	tetronasin-transport ATP-binding protein ABC transporter
+1367484 	 coding 	 1367463..1367858	1367463	1367858	+	131	15608364	tatB	Rv1224	COG1826U	 VII		essential	sec-independent translocase
+1368947 	 coding 	 1368832..1370295	1368832	1370295	-	487	15608366	-	Rv1226c	COG3428S	 II.C.5		nonessential	hypothetical protein
+1373170 	 coding 	 1372962..1374197	1372962	1374197	-	411	15608370	-	Rv1230c	COG2951M	 II.C.5		nonessential	hypothetical protein
+1374125 	 coding 	 1372962..1374197	1372962	1374197	-	411	15608370	-	Rv1230c	COG2951M	 II.C.5		nonessential	hypothetical protein
+1389738 	 coding 	 1389357..1393052	1389357	1393052	-	1231	161352467	kgd	Rv1248c	COG0508C,COG0567C	 I.B.3		essential	alpha-ketoglutarate decarboxylase
+1390763 	 coding 	 1389357..1393052	1389357	1393052	-	1231	161352467	kgd	Rv1248c	COG0508C,COG0567C	 I.B.3		essential	alpha-ketoglutarate decarboxylase
+1392540 	 coding 	 1389357..1393052	1389357	1393052	-	1231	161352467	kgd	Rv1248c	COG0508C,COG0567C	 I.B.3		essential	alpha-ketoglutarate decarboxylase
+1395010 	 coding 	 1394179..1395918	1394179	1395918	+	579	15608390	-	Rv1250	COG0477GEPR	 III.A.6		nonessential	drug-transport integral membrane protein
+1397201 	 coding 	 1395821..1399240	1395821	1399240	-	1139	15608391	-	Rv1251c	COG1112L,COG2251R	 V		nonessential	hypothetical protein
+1400396 	 coding 	 1399970..1401661	1399970	1401661	+	563	15608393	deaD	Rv1253	COG0513LKJ	 II.A.7		nonessential	cold-shock DEAD-box protein A
+1404169 	 coding 	 1403386..1404603	1403386	1404603	-	405	15608396	cyp130	Rv1256c	COG2124Q	 IV.F		nonessential	ytochrome P450 130 CYP130
+1410062 	 coding 	 1409938..1410372	1409938	1410372	-	144	15608402	-	Rv1262c	COG0537FGR	 VI		nonessential	HIT-like protein
+1417554 	 coding 	 1417348..1417657	1417348	1417657	I				IG1288_Rv1267c-Rv1268c			DR-emb		
+1424699 	 coding 	 1424197..1424754	1424197	1424754	+	185	15608414	lprB	Rv1274	-	 II.C.1		essential	lipoprotein LprB
+1428506 	 coding 	 1427414..1430041	1427414	1430041	+	875	15608418	-	Rv1278	COG0419L,COG4717S	 VI		essential	hypothetical protein
+1441533 	 coding 	 1441348..1442718	1441348	1442718	+	456	15608428	-	Rv1288	COG0627R,COG1388M	 V		nonessential	hypothetical protein
+1445474 	 coding 	 1445373..1445498	1445373	1445498	I				IG1312_Rv1290A-Rv1291c					
+1446923 	 coding 	 1446379..1448031	1446379	1448031	+	550	15608432	argS	Rv1292	COG0018J	 II.A.3		essential	arginyl-tRNA synthetase
+1447147 	 coding 	 1446379..1448031	1446379	1448031	+	550	15608432	argS	Rv1292	COG0018J	 II.A.3		essential	arginyl-tRNA synthetase
+1452071 	 coding 	 1451997..1452947	1451997	1452947	+	316	15608436	thrB	Rv1296	COG0083E	 I.D.2		essential	homoserine kinase
+1458144 	 coding 	 1457558..1458211	1457558	1458211	+	217	15608441	-	Rv1301	COG0009J	 V		essential	hypothetical protein
+1479085 	 coding 	 1477628..1479118	1477628	1479118	-	496	15608457	alkA	Rv1317c	COG0122L,COG2169F	 II.A.5		nonessential	bifunctional methylated-DNA--protein-cysteine methyltransferase/O-6-methylguanine-DNA transcription regulator
+1480024 	 coding 	 1479199..1480824	1479199	1480824	-	541	15608458	-	Rv1318c	COG2114T	 IV.I		nonessential	adenylate cyclase
+1481185 	 coding 	 1480894..1482501	1480894	1482501	-	535	15608459	-	Rv1319c	COG2114T	 IV.I		nonessential	adenylate cyclase
+1490905 	 coding 	 1490117..1492312	1490117	1492312	-	731	15608466	glgB	Rv1326c	COG0296G	 II.A.8		essential	glycogen branching enzyme
+1490911 	 coding 	 1490117..1492312	1490117	1492312	-	731	15608466	glgB	Rv1326c	COG0296G	 II.A.8		essential	glycogen branching enzyme
+1492194 	 coding 	 1490117..1492312	1490117	1492312	-	731	15608466	glgB	Rv1326c	COG0296G	 II.A.8		essential	glycogen branching enzyme
+1496964 	 coding 	 1494564..1497155	1494564	1497155	+	863	15608468	glgP	Rv1328	COG0058G	 II.A.8		nonessential	glycogen phosphorylase GlgP
+1505194 	 coding 	 1505075..1505890	1505075	1505890	+	271	15608478	murI	Rv1338	COG0796M	 II.C.3		essential	glutamate racemase
+1505973 	 coding 	 1505917..1506738	1505917	1506738	+	273	15608479	-	Rv1339	COG1234R	 V		essential	hypothetical protein
+1512031 	 coding 	 1511973..1512605	1511973	1512605	-	210	15608487	-	Rv1347c	COG1670J	 IV.D		essential	hypothetical protein
+1523175 	 coding 	 1521885..1524032	1521885	1524032	-	715	15608495	moeY	Rv1355c	COG0476H	 I.G.4		nonessential	hypothetical protein
+1523791 	 coding 	 1521885..1524032	1521885	1524032	-	715	15608495	moeY	Rv1355c	COG0476H	 I.G.4		nonessential	hypothetical protein
+1540141 	 coding 	 1539512..1540645	1539512	1540645	-	377	15608507	-	Rv1367c	COG1680V	 II.C.3		nonessential	hypothetical protein
+1544255 	 coding 	 1543359..1544828	1543359	1544828	+	489	15608511	-	Rv1371	-	 II.C.4		essential	hypothetical protein
+1546703 	 coding 	 1546012..1546992	1546012	1546992	+	326	15608513	-	Rv1373	-	 IV.H		nonessential	glycolipid sulfotransferase
+1548087 	 coding 	 1547832..1549151	1547832	1549151	+	439	15608515	-	Rv1375	COG1944S	 V		nonessential	hypothetical protein
+1559562 	 coding 	 1557101..1560448	1557101	1560448	+	1115	57116856	carB	Rv1384	COG0458EF	 I.F.2		nonessential	carbamoyl phosphate synthase large subunit
+1574206 	 coding 	 1574112..1574513	1574112	1574513	-	133	15608535	-	Rv1397c	COG1487R	 V		nonessential	hypothetical protein
+1584379 	 coding 	 1583101..1584474	1583101	1584474	+	457	15608545	fmu	Rv1407	COG0144J	 II.A.4		nonessential	Fmu protein (SUN protein)
+1585283 	 coding 	 1585194..1586213	1585194	1586213	+	339	15608547	ribG	Rv1409	COG0117H,COG1985H	 I.G.9		essential	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino) uracil reductase
+1585404 	 coding 	 1585194..1586213	1585194	1586213	+	339	15608547	ribG	Rv1409	COG0117H,COG1985H	 I.G.9		essential	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino) uracil reductase
+1586249 	 coding 	 1586210..1587766	1586210	1587766	-	518	15608548	-	Rv1410c	COG0477GEPR	 III.A.6		essential	aminoglycosides/tetracycline-transport integral membrane protein
+1588456 	 coding 	 1587772..1588482	1587772	1588482	-	236	15608549	lprG	Rv1411c	-	 II.C.1		essential	lipoprotein LprG
+1594992 	 coding 	 1594042..1595982	1594042	1595982	+	646	15608558	uvrC	Rv1420	COG0322L	 II.A.5		essential	excinuclease ABC subunit C
+1600685 	 coding 	 1599658..1601037	1599658	1601037	+	459	15608563	-	Rv1425	-	 V		nonessential	hypothetical protein
+1608276 	 coding 	 1608083..1609852	1608083	1609852	+	589	15608569	-	Rv1431	-	 II.C.5		nonessential	hypothetical protein
+1611283 	 coding 	 1611271..1611433	1611271	1611433	I				IG1455_Rv1432-Rv1433					
+1613960 	 coding 	 1613307..1614326	1613307	1614326	+	339	15608574	gap	Rv1436	COG0057G	 I.B.1		essential	glyceraldehyde-3-phosphate dehydrogenase
+1627351 	 coding 	 1626959..1628080	1626959	1628080	-	373	15608586	tal	Rv1448c	COG0176G	 I.B.5		essential	transaldolase
+1638364 	 coding 	 1638230..1638380	1638230	1638380	I				IG1475_Rv1452c-Rv1453					
+1639418 	 coding 	 1638381..1639646	1638381	1639646	+	421	57116867	-	Rv1453	COG2508TQ	 VII		nonessential	transcriptional activator protein
+1639643 	 coding 	 1638381..1639646	1638381	1639646	+	421	57116867	-	Rv1453	COG2508TQ	 VII		nonessential	transcriptional activator protein
+1640442 	 coding 	 1639674..1640660	1639674	1640660	-	328	15608592	qor	Rv1454c	COG0604CR	 I.B.7		nonessential	quinone reductase
+1659994 	 coding 	 1659763..1660620	1659763	1660620	+	285	15608610	echA12	Rv1472	COG1024I	 I.A.3		nonessential	enoyl-CoA hydratase
+1688300 	 coding 	 1687941..1689230	1687941	1689230	+	429	15608635	lipL	Rv1497	COG1680V	 II.B.5		nonessential	esterase LipL
+1691799 	 coding 	 1690850..1691878	1690850	1691878	+	342	15608638	-	Rv1500	COG0463M	 IV.H		nonessential	glycosyltransferase
+1692795 	 coding 	 1692712..1692923	1692712	1692923	I				IG1527_Rv1501-Rv1502					
+1694547 	 coding 	 1694545..1695144	1694545	1695144	-	199	15608642	-	Rv1504c	COG0399M	 V		nonessential	hypothetical protein
+1695674 	 coding 	 1695281..1695946	1695281	1695946	-	221	15608643	-	Rv1505c	COG0110R	 V		nonessential	hypothetical protein
+1699849 	 coding 	 1698095..1699894	1698095	1699894	-	599	15608646	-	Rv1508c	-	 V		nonessential	hypothetical protein
+1706746 	 coding 	 1706630..1707526	1706630	1707526	-	298	15608653	-	Rv1515c	COG0500QR	 V		nonessential	hypothetical protein
+1709432 	 coding 	 1708871..1709635	1708871	1709635	+	254	15608655	-	Rv1517	-	 V		nonessential	hypothetical protein
+1709899 	 coding 	 1709644..1710603	1709644	1710603	+	319	15608656	-	Rv1518	COG0463M	 II.C.2		nonessential	hypothetical protein
+1713192 	 coding 	 1712302..1714053	1712302	1714053	+	583	15608659	fadD25	Rv1521	COG0318IQ	 I.A.3		nonessential	acyl-CoA synthetase
+1716472 	 coding 	 1714172..1717612	1714172	1717612	-	1146	15608660	mmpL12	Rv1522c	COG2409R	 II.C.4		nonessential	transmembrane transport protein MmpL12
+1718761 	 coding 	 1718726..1719970	1718726	1719970	+	414	15608662	-	Rv1524	COG1819GC	 IV.H		essential	glycosyltransferase
+1719322 	 coding 	 1718726..1719970	1718726	1719970	+	414	15608662	-	Rv1524	COG1819GC	 IV.H		essential	glycosyltransferase
+1719391 	 coding 	 1718726..1719970	1718726	1719970	+	414	15608662	-	Rv1524	COG1819GC	 IV.H		essential	glycosyltransferase
+1724120 	 coding 	 1722083..1728409	1722083	1728409	-	2108	15608665	pks5	Rv1527c	COG3321Q	 I.I		nonessential	polyketide synthase pks5
+1726816 	 coding 	 1722083..1728409	1722083	1728409	-	2108	15608665	pks5	Rv1527c	COG3321Q	 I.I		nonessential	polyketide synthase pks5
+1734994 	 coding 	 1734734..1735411	1734734	1735411	+	225	15608672	-	Rv1534	COG1309K	 I.J.1		nonessential	transcriptional regulator
+1736638 	 coding 	 1736519..1739644	1736519	1739644	+	1041	15608674	ileS	Rv1536	COG0060J	 II.A.3		nonessential	isoleucyl-tRNA synthetase
+1740771 	 coding 	 1739841..1741247	1739841	1741247	+	468	161352466	dinX	Rv1537	COG0389L	 II.A.5		nonessential	DNA polymerase IV
+1755599 	 coding 	 1755445..1757310	1755445	1757310	+	621	15608689	plsB1	Rv1551	COG2937I	 I.H.3		nonessential	glycerol-3-phosphate acyltransferase
+1760923 	 coding 	 1760552..1760929	1760552	1760929	+	125	15608693	frdD	Rv1555	-	 I.B.6b		nonessential	fumarate reductase subunit D
+1761789 	 coding 	 1761744..1762937	1761744	1762937	+	397	15608695	mmpL6	Rv1557	COG2409R	 II.C.4		nonessential	transmembrane transport protein MmpL6
+1769099 	 coding 	 1767135..1769432	1767135	1769432	-	765	57116885	treY	Rv1563c	COG3280G	 II.A.8		nonessential	maltooligosyltrehalose synthase TreY
+1771320 	 coding 	 1769436..1771601	1769436	1771601	-	721	57116886	treX	Rv1564c	COG1523G	 II.A.8		nonessential	maltooligosyltrehalose synthase TreX
+1771865 	 coding 	 1771640..1773829	1771640	1773829	-	729	15608703	-	Rv1565c	COG1835I	 V		nonessential	hypothetical protein
+1777213 	 coding 	 1776702..1777862	1776702	1777862	+	386	57116887	bioF1	Rv1569	COG0156H	 I.G.1		essential	8-amino-7-oxononanoate synthase
+1790063 	 coding 	 1789837..1790283	1789837	1790283	I				IG1616_Rv1588c-Rv1589					
+1792777 	 coding 	 1792400..1793740	1792400	1793740	-	446	15608730	-	Rv1592c	-	 V	DR-inh	nonessential	hypothetical protein
+1792778 	 coding 	 1792400..1793740	1792400	1793740	-	446	15608730	-	Rv1592c	-	 V	DR-inh	nonessential	hypothetical protein
+1793769 	 coding 	 1793741..1793996	1793741	1793996	I				IG1620_Rv1592c-Rv1593c			DR-inh		
+1797577 	 coding 	 1797388..1798245	1797388	1798245	+	285	15608734	nadC	Rv1596	COG0157H	 I.G.7		nonessential	nicotinate-nucleotide pyrophosphorylase
+1803579 	 coding 	 1803294..1804031	1803294	1804031	+	245	15608741	hisA	Rv1603	COG0106E	 I.D.5		essential	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1805948 	 coding 	 1805653..1806000	1805653	1806000	+	115	57116892	hisI	Rv1606	COG0139E	 I.D.5		essential	phosphoribosyl-AMP cyclohydrolase
+1826054 	 coding 	 1825998..1826585	1825998	1826585	-	195	15608762	-	Rv1624c	COG3247S	 II.C.4		nonessential	hypothetical protein
+1833469 	 coding 	 1833380..1833541	1833380	1833541	I				IG1657_Rv1629-Rv1630					
+1839260 	 coding 	 1839168..1840583	1839168	1840583	+	471	15608772	-	Rv1634	COG0477GEPR	 III.A.6		nonessential	drug efflux membrane protein
+1839759 	 coding 	 1839168..1840583	1839168	1840583	+	471	15608772	-	Rv1634	COG0477GEPR	 III.A.6		nonessential	drug efflux membrane protein
+1844885 	 coding 	 1843741..1846659	1843741	1846659	+	972	15608776	uvrA	Rv1638	COG0178L	 II.A.5		nonessential	excinuclease ABC subunit A
+1847811 	 coding 	 1846989..1848458	1846989	1848458	-	489	15608777	-	Rv1639c	COG0627R	 V		nonessential	hypothetical protein
+1849609 	 coding 	 1848517..1852035	1848517	1852035	-	1172	15608778	lysS	Rv1640c	COG1190J,COG2898S	 II.A.3		essential	lysyl-tRNA synthetase
+1859559 	 coding 	 1858733..1859758	1858733	1859758	+	341	15608787	pheS	Rv1649	COG0016J	 II.A.3		essential	phenylalanyl-tRNA synthetase subunit alpha
+1860795 	 coding 	 1859758..1862253	1859758	1862253	+	831	15608788	pheT	Rv1650	COG0072J,COG0073R	 II.A.3		essential	phenylalanyl-tRNA synthetase subunit beta
+1861274 	 coding 	 1859758..1862253	1859758	1862253	+	831	15608788	pheT	Rv1650	COG0072J,COG0073R	 II.A.3		essential	phenylalanyl-tRNA synthetase subunit beta
+1872959 	 coding 	 1872639..1874051	1872639	1874051	+	470	15608797	argH	Rv1659	COG0165E	 I.D.1		essential	argininosuccinate lyase
+1877638 	 coding 	 1875304..1881684	1875304	1881684	+	2126	15608799	pks7	Rv1661	COG3321Q	 I.I		essential	polyketide synthase pks7
+1888128 	 coding 	 1888026..1891079	1888026	1891079	+	1017	15608802	pks9	Rv1664	COG3321Q	 I.I		nonessential	polyketide synthase pks9
+1889073 	 coding 	 1888026..1891079	1888026	1891079	+	1017	15608802	pks9	Rv1664	COG3321Q	 I.I		nonessential	polyketide synthase pks9
+1894422 	 coding 	 1894224..1895342	1894224	1895342	-	372	15608806	-	Rv1668c	COG0488R	 III.A		nonessential	macrolide-transport ATP-binding protein ABC transporter
+1899351 	 coding 	 1899260..1899916	1899260	1899916	-	218	15608812	-	Rv1674c	COG0607P,COG0640K	 I.J.1		nonessential	transcriptional regulatory protein
+1900800 	 coding 	 1900241..1900975	1900241	1900975	-	244	15608813	-	Rv1675c	COG0664T	 I.J.1		nonessential	transcriptional regulatory protein
+1906336 	 coding 	 1906243..1906402	1906243	1906402	I				IG1710_Rv1681-Rv1682					
+1916137 	 coding 	 1915949..1916701	1915949	1916701	+	250	15608829	-	Rv1691	COG0457R	 V		nonessential	hypothetical protein
+1920120 	 coding 	 1919683..1921446	1919683	1921446	+	587	15608834	recN	Rv1696	COG0497L	 II.A.5		essential	DNA repair protein recN (recombination protein N)
+1924959 	 coding 	 1923829..1925589	1923829	1925589	+	586	15608837	pyrG	Rv1699	COG0504F	 I.F.2		essential	CTP synthetase
+1931470 	 coding 	 1931457..1931496	1931457	1931496	I				IG1733_Rv1704c-Rv1705c					
+1935695 	 coding 	 1934882..1936342	1934882	1936342	+	486	15608845	-	Rv1707	COG0659P	 III.A.4		nonessential	transmembrane protein
+1936525 	 coding 	 1936360..1937316	1936360	1937316	+	318	15608846	-	Rv1708	COG1192D	 III.C		essential	putative initiation inhibitor protein
+1939763 	 coding 	 1939599..1940291	1939599	1940291	+	230	15608850	cmk	Rv1712	COG0283F	 I.F.5		essential	cytidylate kinase
+1943039 	 coding 	 1942659..1943573	1942659	1943573	+	304	57116901	fadB3	Rv1715	COG1250I	 I.A.3		essential	3-hydroxybutyryl-CoA dehydrogenase FADB3
+1943592 	 coding 	 1943576..1944406	1943576	1944406	+	276	15608854	-	Rv1716	COG1878R	 V		nonessential	hypothetical protein
+1947903 	 coding 	 1947861..1949345	1947861	1949345	+	494	15608860	-	Rv1722	COG0439I	 I.H.1		nonessential	biotin carboxylase-like protein
+1952160 	 coding 	 1951852..1953237	1951852	1953237	+	461	15608864	-	Rv1726	COG0277C	 I.B.7		nonessential	oxidoreductase
+1956523 	 coding 	 1955692..1957245	1955692	1957245	-	517	15608868	-	Rv1730c	COG1680V	 II.C.3		essential	penicillin-binding protein
+1963957 	 coding 	 1962228..1964186	1962228	1964186	-	652	15608874	narX	Rv1736c	COG2180C,COG2181C,COG5013C	 I.B.6b		nonessential	nitrate reductase NarX
+1971725 	 coding 	 1971380..1971991	1971380	1971991	-	203	15608883	idi	Rv1745c	COG1443I	 VII		nonessential	isopentenyl-diphosphate delta-isomerase
+1973157 	 coding 	 1972138..1973568	1972138	1973568	+	476	15608884	pknF	Rv1746	COG0515RTKL	 I.J.3		nonessential	anchored-membrane serine/threonine-protein kinase PKNF (protein kinase F) (STPK F)
+1981056 	 coding 	 1981004..1981129	1981004	1981129	I				IG1781_Rv1751-Rv1752					
+1998063 	 coding 	 1997418..1998515	1997418	1998515	-	365	15608903	-	Rv1765c	COG0583K	 IV.B.1		nonessential	hypothetical protein
+1998122 	 coding 	 1997418..1998515	1997418	1998515	-	365	15608903	-	Rv1765c	COG0583K	 IV.B.1		nonessential	hypothetical protein
+2007785 	 coding 	 2007767..2007831	2007767	2007831	I				IG1804_Rv1773c-Rv1774					
+2010614 	 coding 	 2010556..2010655	2010556	2010655	I				IG1807_Rv1776c-Rv1777					
+2017291 	 coding 	 2015302..2017476	2015302	2017476	-	724	15608919	malQ	Rv1781c	COG1640G	 II.A.8		nonessential	4-alpha-glucanotransferase MalQ
+2019236 	 coding 	 2017740..2019260	2017740	2019260	+	506	15608920	-	Rv1782	-	 II.C.4		nonessential	hypothetical protein
+2019942 	 coding 	 2019257..2020564	2019257	2020564	+	435	15608921	-	Rv1783	COG1674D	 II.C.4		nonessential	hypothetical protein
+2030521 	 coding 	 2030204..2030693	2030204	2030693	I				IG1822_Rv1791-Rv1793					
+2053411 	 coding 	 2053290..2053442	2053290	2053442	I				IG1840_Rv1810-Rv1811					
+2053682 	 coding 	 2053443..2054147	2053443	2054147	+	234	15608948	mgtC	Rv1811	COG1285S	 III.A.2		nonessential	Mg2+ transport P-type ATPase C
+2062922 	 coding 	 2062809..2064728	2062809	2064728	-	639	15608956	-	Rv1819c	COG4178R	 III.A.6		nonessential	drugs-transport transmembrane ATP-binding protein ABC transporter
+2072190 	 coding 	 2071952..2072356	2071952	2072356	+	134	15608963	gcvH	Rv1826	COG0509E	 I.C.1		nonessential	glycine cleavage system protein H
+2074509 	 coding 	 2074438..2074840	2074438	2074840	I				IG1859_Rv1829-Rv1830					
+2074565 	 coding 	 2074438..2074840	2074438	2074840	I				IG1859_Rv1829-Rv1830					
+2074754 	 coding 	 2074438..2074840	2074438	2074840	I				IG1859_Rv1829-Rv1830					
+2077218 	 coding 	 2075877..2078702	2075877	2078702	+	941	15608969	gcvB	Rv1832	COG0403E,COG1003E	 I.C.1		essential	glycine dehydrogenase
+2084526 	 coding 	 2082603..2084636	2082603	2084636	-	677	15608973	-	Rv1836c	-	 V		nonessential	hypothetical protein
+2093715 	 coding 	 2093699..2093730	2093699	2093730	I				IG1873_Rv1843c-Rv1844c					
+2097144 	 coding 	 2096877..2097299	2096877	2097299	+	140	15608984	-	Rv1847	COG2050Q	 V		nonessential	hypothetical protein
+2097990 	 coding 	 2097961..2099694	2097961	2099694	+	577	15608987	ureC	Rv1850	COG0804E	 I.A.2		essential	urease subunit alpha
+2098135 	 coding 	 2097961..2099694	2097961	2099694	+	577	15608987	ureC	Rv1850	COG0804E	 I.A.2		essential	urease subunit alpha
+2108890 	 coding 	 2108714..2109164	2108714	2109164	I				IG1890_Rv1860-Rv1861					
+2110365 	 coding 	 2109544..2110584	2109544	2110584	+	346	15608999	adhA	Rv1862	COG1064R	 I.B.7		nonessential	alcohol dehydrogenase AdhA
+2120796 	 coding 	 2120795..2121430	2120795	2121430	-	211	15609007	-	Rv1870c	-	 V		nonessential	hypothetical protein
+2122625 	 coding 	 2121907..2123151	2121907	2123151	-	414	15609009	lldD2	Rv1872c	COG1304C	 I.B.6a		nonessential	L-lactate dehydrogenase (cytochrome) LldD2
+2122976 	 coding 	 2121907..2123151	2121907	2123151	-	414	15609009	lldD2	Rv1872c	COG1304C	 I.B.6a		nonessential	L-lactate dehydrogenase (cytochrome) LldD2
+2126366 	 coding 	 2125904..2127967	2125904	2127967	+	687	15609014	-	Rv1877	COG0477GEPR	 III.A.6		nonessential	integral membrane protein
+2128372 	 coding 	 2128022..2129374	2128022	2129374	+	450	15609015	glnA3	Rv1878	COG0174E	 I.D.1		nonessential	glutamine synthetase
+2129281 	 coding 	 2128022..2129374	2128022	2129374	+	450	15609015	glnA3	Rv1878	COG0174E	 I.D.1		nonessential	glutamine synthetase
+2130529 	 coding 	 2130514..2130540	2130514	2130540	I				IG1909_Rv1879-Rv1880c					
+2134215 	 coding 	 2133731..2134261	2133731	2134261	-	176	15609021	rpfC	Rv1884c	-	 VII		nonessential	resuscitation-promoting factor RpfC
+2145878 	 coding 	 2145214..2146245	2145214	2146245	-	343	15609036	lppD	Rv1899c	COG2110R	 II.C.1		nonessential	lipoprotein LppD
+2151678 	 coding 	 2151433..2152395	2151433	2152395	-	320	15609042	aao	Rv1905c	COG0665E	 I.A.2		nonessential	D-amino acid oxidase
+2154724 	 coding 	 2153889..2156111	2153889	2156111	-	740	15609045	katG	Rv1908c	COG0376P	 III.F	DR-inh	nonessential	catalase-peroxidase-peroxynitritase T KATG
+2155168 	 coding 	 2153889..2156111	2153889	2156111	-	740	15609045	katG	Rv1908c	COG0376P	 III.F	DR-inh	nonessential	catalase-peroxidase-peroxynitritase T KATG
+2156868 	 coding 	 2156706..2157299	2156706	2157299	-	197	15609047	-	Rv1910c	COG1881R	 II.C.2		nonessential	hypothetical protein
+2158109 	 coding 	 2158087..2159091	2158087	2159091	-	334	15609049	fadB5	Rv1912c	COG0604CR	 I.A.3		nonessential	oxidoreductase FADB5
+2160998 	 coding 	 2160463..2161566	2160463	2161566	+	367	15609052	aceAa	Rv1915	COG2224C	 I.B.4		nonessential	isocitrate lyase
+2174216 	 coding 	 2174067..2175182	2174067	2175182	+	371	15609059	-	Rv1922	COG1680V	 II.C.3		nonessential	lipoprotein
+2177073 	 coding 	 2176931..2177086	2176931	2177086	I				IG1955_Rv1924c-Rv1925					
+2199052 	 coding 	 2198714..2199064	2198714	2199064	-	116	15609085	-	Rv1948c	-	 VI		nonessential	hypothetical protein
+2199416 	 coding 	 2199075..2200034	2199075	2200034	-	319	15609086	-	Rv1949c	-	 V		nonessential	hypothetical protein
+2204092 	 coding 	 2203974..2204225	2203974	2204225	-	83	15609097	-	Rv1960c	COG3609K	 V		nonessential	hypothetical protein
+2207525 	 coding 	 2206803..2207699	2206803	2207699	I				IG1994_Rv1963c-Rv1964					
+2209465 	 coding 	 2209327..2210604	2209327	2210604	+	425	57116931	mce3A	Rv1966	COG1463Q	 IV.A		nonessential	MCE-family protein MCE3A
+2211971 	 coding 	 2211626..2212858	2211626	2212858	+	410	15609105	mce3C	Rv1968	COG1463Q	 IV.A		nonessential	MCE-family protein MCE3C
+2213265 	 coding 	 2212855..2214126	2212855	2214126	+	423	15609106	mce3D	Rv1969	COG1463Q	 IV.A		nonessential	MCE-family protein MCE3D
+2216248 	 coding 	 2215257..2216570	2215257	2216570	+	437	15609108	mce3F	Rv1971	COG1463Q	 IV.A		nonessential	MCE-family protein MCE3F
+2218012 	 coding 	 2217659..2218036	2217659	2218036	+	125	15609111	-	Rv1974	-	 II.C.4		essential	hypothetical protein
+2222308 	 coding 	 2221719..2223164	2221719	2223164	-	481	15609116	-	Rv1979c	COG0531E	 VI		nonessential	permease
+2229801 	 coding 	 2228991..2229902	2228991	2229902	-	303	15609122	-	Rv1985c	COG0583K	 I.J.1		nonessential	chromosome replication initiation inhibitor protein
+2231132 	 coding 	 2231026..2231454	2231026	2231454	+	142	15609124	-	Rv1987	-	 II.C.2		nonessential	chitinase
+2231486 	 coding 	 2231455..2231679	2231455	2231679	I				IG2018_Rv1987-Rv1988					
+2241742 	 coding 	 2240159..2242876	2240159	2242876	+	905	15609134	ctpF	Rv1997	COG0474P	 III.A.2		nonessential	metal cation transporter P-type ATPase A CtpF
+2243034 	 coding 	 2242945..2243721	2242945	2243721	-	258	15609135	-	Rv1998c	COG2513G	 V		nonessential	hypothetical protein
+2245532 	 coding 	 2245209..2246822	2245209	2246822	+	537	15609137	-	Rv2000	COG0493ER,COG0665E	 VI		nonessential	hypothetical protein
+2246960 	 coding 	 2246832..2247584	2246832	2247584	+	250	15609138	-	Rv2001	COG3884I	 V		nonessential	hypothetical protein
+2247677 	 coding 	 2247660..2248442	2247660	2248442	+	260	15609139	fabG3	Rv2002	COG1028IQR	 I.H.1		nonessential	20-beta-hydroxysteroid dehydrogenase
+2257780 	 coding 	 2256617..2257942	2256617	2257942	-	441	15609145	-	Rv2008c	COG1373R,COG4108J	 V		nonessential	hypothetical protein
+2260100 	 coding 	 2259821..2260664	2259821	2260664	I				IG2044_Rv2012-Rv2013					
+2267372 	 coding 	 2267119..2267724	2267119	2267724	-	201	15609159	-	Rv2022c	COG4683S	 V		nonessential	hypothetical protein
+2278442 	 coding 	 2276441..2278486	2276441	2278486	-	681	15609167	-	Rv2030c	COG1926R,COG2312R	 V		nonessential	hypothetical protein
+2278495 	 coding 	 2278487..2278497	2278487	2278497	I				IG2062_Rv2030c-Rv2031c					
+2282376 	 coding 	 2282099..2282740	2282099	2282740	+	213	15609173	-	Rv2036	-	 IV.D		nonessential	hypothetical protein
+2282377 	 coding 	 2282099..2282740	2282099	2282740	+	213	15609173	-	Rv2036	-	 IV.D		nonessential	hypothetical protein
+2283030 	 coding 	 2282747..2283721	2282747	2283721	-	324	15609174	-	Rv2037c	COG1752R	 II.C.5		nonessential	transmembrane protein
+2300639 	 coding 	 2294531..2306986	2294531	2306986	-	4151	15609185	pks12	Rv2048c	COG3321Q	 I.I		essential	polyketide synthase pks12
+2301089 	 coding 	 2294531..2306986	2294531	2306986	-	4151	15609185	pks12	Rv2048c	COG3321Q	 I.I		essential	polyketide synthase pks12
+2302033 	 coding 	 2294531..2306986	2294531	2306986	-	4151	15609185	pks12	Rv2048c	COG3321Q	 I.I		essential	polyketide synthase pks12
+2311099 	 coding 	 2310913..2312517	2310913	2312517	-	534	15609189	-	Rv2052c	COG1574R	 V		nonessential	hypothetical protein
+2327492 	 coding 	 2327491..2328225	2327491	2328225	-	244	15609207	cobK	Rv2070c	COG2099H	 I.G.13		nonessential	cobalt-precorrin-6x reductase
+2328543 	 coding 	 2328222..2328977	2328222	2328977	-	251	15609208	cobM	Rv2071c	COG2875H	 I.G.13		nonessential	precorrin-4 C11-methyltransferase CobM
+2331620 	 coding 	 2331416..2332879	2331416	2332879	-	487	15609212	-	Rv2075c	-	 VI		nonessential	hypothetical protein
+2331789 	 coding 	 2331416..2332879	2331416	2332879	-	487	15609212	-	Rv2075c	-	 VI		nonessential	hypothetical protein
+2338866 	 coding 	 2338709..2340874	2338709	2340874	+	721	15609219	-	Rv2082	-	 V		nonessential	hypothetical protein
+2338912 	 coding 	 2338709..2340874	2338709	2340874	+	721	15609219	-	Rv2082	-	 V		nonessential	hypothetical protein
+2338990 	 coding 	 2338709..2340874	2338709	2340874	+	721	15609219	-	Rv2082	-	 V		nonessential	hypothetical protein
+2338994 	 coding 	 2338709..2340874	2338709	2340874	+	721	15609219	-	Rv2082	-	 V		nonessential	hypothetical protein
+2339255 	 coding 	 2338709..2340874	2338709	2340874	+	721	15609219	-	Rv2082	-	 V		nonessential	hypothetical protein
+2341030 	 coding 	 2340871..2341815	2340871	2341815	+	314	15609220	-	Rv2083	-	 V		nonessential	hypothetical protein
+2347001 	 coding 	 2346197..2347324	2346197	2347324	-	375	15609226	pepE	Rv2089c	COG0006E	 II.B.3		nonessential	dipeptidase PepE
+2350186 	 coding 	 2349334..2352054	2349334	2352054	-	906	15609229	helY	Rv2092c	COG4581L	 II.A.5		nonessential	ATP-dependent DNA helicase HelY
+2365238 	 coding 	 2364782..2365464	2364782	2365464	I				IG2135_Rv2104c-Rv2105					
+2369186 	 coding 	 2368983..2369729	2368983	2369729	-	248	15609246	prcA	Rv2109c	COG0638O	 II.B.3		essential	proteasome (alpha subunit) PrcA
+2369326 	 coding 	 2368983..2369729	2368983	2369729	-	248	15609246	prcA	Rv2109c	COG0638O	 II.B.3		essential	proteasome (alpha subunit) PrcA
+2376425 	 coding 	 2376291..2376570	2376291	2376570	I				IG2146_Rv2115c-Rv2116					
+2379743 	 coding 	 2379728..2379805	2379728	2379805	I				IG2151_Rv2120c-Rv2121c					
+2385695 	 coding 	 2382489..2386067	2382489	2386067	-	1192	15609261	metH	Rv2124c	COG0646E,COG1410E	 I.D.2		nonessential	5-methyltetrahydrofolate--homocystein methyltransferase
+2388641 	 coding 	 2388616..2390085	2388616	2390085	+	489	57116950	ansP1	Rv2127	COG1113E	 III.A.1		nonessential	L-asparagine permease ansP1
+2390299 	 coding 	 2390289..2390307	2390289	2390307	I				IG2159_Rv2128-Rv2129c					
+2401883 	 coding 	 2401723..2402192	2401723	2402192	I				IG2172_Rv2141c-Rv2142c					
+2413246 	 coding 	 2412119..2413351	2412119	2413351	-	410	15609290	murG	Rv2153c	COG0707M	 II.C.3		essential	N-acetylglucosaminyl transferase
+2419142 	 coding 	 2419001..2420608	2419001	2420608	-	535	15609295	murE	Rv2158c	COG0769M	 II.C.3		nonessential	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+2420535 	 coding 	 2419001..2420608	2419001	2420608	-	535	15609295	murE	Rv2158c	COG0769M	 II.C.3		nonessential	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+2421816 	 coding 	 2421662..2422003	2421662	2422003	-	113	15609297	-	Rv2160c	-	 V		nonessential	hypothetical protein
+2424864 	 coding 	 2424839..2425047	2424839	2425047	I				IG2194_Rv2162c-Rv2163c					
+2425471 	 coding 	 2425048..2427087	2425048	2427087	-	679	15609300	pbpB	Rv2163c	COG0768M	 II.C.3		essential	penicillin-binding membrane protein pbpB
+2425797 	 coding 	 2425048..2427087	2425048	2427087	-	679	15609300	pbpB	Rv2163c	COG0768M	 II.C.3		essential	penicillin-binding membrane protein pbpB
+2437259 	 coding 	 2435909..2437459	2435909	2437459	+	516	15609311	-	Rv2174	-	 II.C.5		essential	integral membrane protein
+2438919 	 coding 	 2437941..2439140	2437941	2439140	+	399	15609313	pknL	Rv2176	COG0515RTKL	 I.J.3		nonessential	transmembrane serine/threonine-protein kinase L
+2443188 	 coding 	 2442327..2443214	2442327	2443214	-	295	15609317	-	Rv2180c	-	 II.C.5		nonessential	integral membrane protein
+2447539 	 coding 	 2447501..2447604	2447501	2447604	I				IG2217_Rv2185c-Rv2186c					
+2448458 	 coding 	 2448160..2449962	2448160	2449962	+	600	15609324	fadD15	Rv2187	COG1022I	 I.A.3		nonessential	long-chain-fatty-acid-CoA ligase fadD15 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)
+2449295 	 coding 	 2448160..2449962	2448160	2449962	+	600	15609324	fadD15	Rv2187	COG1022I	 I.A.3		nonessential	long-chain-fatty-acid-CoA ligase fadD15 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)
+2452756 	 coding 	 2452115..2453272	2452115	2453272	-	385	15609327	-	Rv2190c	COG0791M	 IV.A		nonessential	hypothetical protein
+2463094 	 coding 	 2463048..2463232	2463048	2463232	I				IG2230_Rv2198c-Rv2199c					
+2470591 	 coding 	 2470464..2470621	2470464	2470621	I				IG2237_Rv2205c-Rv2206					
+2472956 	 coding 	 2472493..2473242	2472493	2473242	+	249	15609345	cobS	Rv2208	COG0368H	 I.G.13		nonessential	cobalamin synthase
+2484255 	 coding 	 2483626..2484531	2483626	2484531	+	301	15609353	-	Rv2216	COG1090R	 V		nonessential	hypothetical protein
+2495500 	 coding 	 2495461..2497023	2495461	2497023	-	520	15609361	-	Rv2224c	COG0596R	 II.C.2		essential	exported protease
+2501148 	 coding 	 2500931..2501632	2500931	2501632	+	233	15609364	-	Rv2227	COG3826S	 V		nonessential	hypothetical protein
+2502073 	 coding 	 2501644..2502738	2501644	2502738	-	364	15609365	-	Rv2228c	COG0328L,COG0406G	 V		nonessential	bifunctional RNase H/acid phosphatase
+2503625 	 coding 	 2503469..2504608	2503469	2504608	-	379	15609367	-	Rv2230c	COG0327S,COG3323S	 V		nonessential	hypothetical protein
+2507847 	 coding 	 2507637..2508452	2507637	2508452	+	271	15609372	-	Rv2235	COG3346S	 II.C.5		essential	transmembrane protein
+2511712 	 coding 	 2511690..2512487	2511690	2512487	-	265	15609377	-	Rv2240c	-	 VI		nonessential	hypothetical protein
+2516567 	 coding 	 2516549..2516786	2516549	2516786	I				IG2274_Rv2242-Rv2243					
+2518132 	 coding 	 2518115..2519365	2518115	2519365	+	416	15609382	kasA	Rv2245	COG0304IQ	 I.H.1	DR-inh	essential	3-oxoacyl-(acyl carrier protein) synthase II
+2526974 	 coding 	 2525565..2526992	2525565	2526992	+	475	15609388	-	Rv2251	COG0277C	 VII		essential	flavoprotein
+2527676 	 coding 	 2526989..2527918	2526989	2527918	+	309	15609389	-	Rv2252	COG1597IR	 V		nonessential	diacylglycerol kinase
+2546702 	 coding 	 2546488..2546805	2546488	2546805	-	105	15609411	-	Rv2274c	-	 VI		nonessential	hypothetical protein
+2562783 	 coding 	 2562599..2563114	2562599	2563114	+	171	15609427	lppO	Rv2290	-	 II.C.1		nonessential	lipoprotein lppO
+2563958 	 coding 	 2563174..2564028	2563174	2564028	+	284	15609428	sseB	Rv2291	COG2897P	 I.C.5		nonessential	thiosulfate sulfurtransferase SseB
+2566768 	 coding 	 2566551..2566771	2566551	2566771	I				IG2327_Rv2294-Rv2295					
+2577246 	 coding 	 2577108..2577701	2577108	2577701	+	197	57116962	-	Rv2306A	COG0398S,COG0841V	 II.C.5		nonessential	hypothetical protein
+2578626 	 coding 	 2577851..2578696	2577851	2578696	-	281	15609444	-	Rv2307c	COG1073R	 VI		nonessential	hypothetical protein
+2579208 	 coding 	 2578697..2579227	2578697	2579227	I				IG2341_Rv2307c-Rv2307A					
+2581109 	 coding 	 2580419..2581135	2580419	2581135	+	238	15609445	-	Rv2308	COG2442S	 I.J.1		nonessential	hypothetical protein
+2584866 	 coding 	 2584756..2585051	2584756	2585051	I				IG2350_Rv2312-Rv2313c					
+2589216 	 coding 	 2588838..2589710	2588838	2589710	+	290	15609453	uspA	Rv2316	COG1175G	 III.A.3		nonessential	sugar-transport integral membrane protein ABC transporter UspA
+2599821 	 coding 	 2597854..2599947	2597854	2599947	-	697	15609463	-	Rv2326c	COG1122P	 II.C.5		nonessential	transmembrane ATP-binding protein ABC transorter
+2605293 	 coding 	 2605108..2606754	2605108	2606754	+	548	57116971	mez	Rv2332	COG0281C	 I.B.7		nonessential	malate dehydrogenase
+2608117 	 coding 	 2606708..2608321	2606708	2608321	-	537	15609470	-	Rv2333c	COG0477GEPR	 III.A.6		nonessential	integral membrane transport protein
+2608488 	 coding 	 2608322..2608795	2608322	2608795	I				IG2372_Rv2333c-Rv2334					
+2619271 	 coding 	 2618909..2619596	2618909	2619596	I				IG2379_Rv2340c-Rv2341					
+2621058 	 coding 	 2620533..2622452	2620533	2622452	-	639	15609480	dnaG	Rv2343c	COG0358L	 II.A.5		essential	DNA primase
+2625924 	 coding 	 2625888..2626172	2625888	2626172	-	94	15609483	esxO	Rv2346c	-	 VI		nonessential	putative ESAT-6 like protein ESXO (ESAT-6 like protein 6)
+2626108 	 coding 	 2625888..2626172	2625888	2626172	-	94	15609483	esxO	Rv2346c	-	 VI		nonessential	putative ESAT-6 like protein ESXO (ESAT-6 like protein 6)
+2626189 	 coding 	 2626173..2626222	2626173	2626222	I				IG2385_Rv2346c-Rv2347c					
+2626191 	 coding 	 2626173..2626222	2626173	2626222	I				IG2385_Rv2346c-Rv2347c					
+2631641 	 coding 	 2630537..2632075	2630537	2632075	-	512	15609488	plcA	Rv2351c	COG3511M	 II.B.5		nonessential	membrane-associated phospholipase C
+2632500 	 coding 	 2632076..2632922	2632076	2632922	I				IG2390_Rv2351c-Rv2352c					
+2637541 	 coding 	 2636890..2637687	2636890	2637687	I				IG2394_Rv2355-Rv2356c					
+2641840 	 coding 	 2641650..2642042	2641650	2642042	+	130	15609496	furB	Rv2359	COG0735P	 I.J.1		essential	ferric uptake regulation protein FURB
+2642383 	 coding 	 2642150..2642578	2642150	2642578	-	142	15609497	-	Rv2360c	-	 VI		nonessential	hypothetical protein
+2654371 	 coding 	 2654062..2655093	2654062	2655093	-	343	15609511	hrcA	Rv2374c	COG1420K	 III.B		essential	heat-inducible transcription repressor
+2664299 	 coding 	 2662067..2667115	2662067	2667115	-	1682	15609517	mbtE	Rv2380c	COG1020Q	 I.I		nonessential	peptide synthetase MBTE (peptide synthase)
+2684464 	 coding 	 2684267..2684678	2684267	2684678	I				IG2429_Rv2390c-Rv2391					
+2691713 	 coding 	 2690072..2692075	2690072	2692075	+	667	15609532	-	Rv2395	COG1297S	 II.C.5		nonessential	integral membrane protein
+2698585 	 coding 	 2698529..2700457	2698529	2700457	+	642	15609539	-	Rv2402	COG3387G	 V		nonessential	hypothetical protein
+2701886 	 coding 	 2701287..2703248	2701287	2703248	-	653	15609541	lepA	Rv2404c	COG0481M	 I.F.5		nonessential	GTP-binding protein LepA
+2709795 	 coding 	 2708310..2709965	2708310	2709965	-	551	15609548	-	Rv2411c	COG2308S	 V		nonessential	hypothetical protein
+2712913 	 coding 	 2712891..2713784	2712891	2713784	-	297	15609552	-	Rv2415c	COG1555L	 V		nonessential	hypothetical protein
+2717710 	 coding 	 2717128..2717799	2717128	2717799	-	223	15609556	-	Rv2419c	COG0406G	 I.B.1		nonessential	phosphoglycerate mutase (phosphoglyceromutase)
+2723506 	 coding 	 2723308..2724183	2723308	2724183	-	291	15609563	-	Rv2426c	COG0714R	 V		nonessential	hypothetical protein
+2736434 	 coding 	 2734792..2736831	2734792	2736831	-	679	57116990	nadE	Rv2438c	COG0171H,COG0388R	 V		essential	NAD synthetase
+2737572 	 coding 	 2737117..2738247	2737117	2738247	-	376	15609576	proB	Rv2439c	COG0263E	 I.D.1		essential	gamma-glutamyl kinase
+2740693 	 coding 	 2740362..2740708	2740362	2740708	I				IG2483_Rv2442c-Rv2443					
+2745889 	 coding 	 2745767..2746138	2745767	2746138	-	123	15609583	-	Rv2446c	-	 II.C.5		nonessential	integral membrane protein
+2764939 	 coding 	 2763891..2765291	2763891	2765291	-	466	15609599	tig	Rv2462c	COG0544O	 III.D		nonessential	trigger factor
+2780470 	 coding 	 2777388..2782262	2777388	2782262	-	1624	15609613	gdh	Rv2476c	COG2902E	 I.B.7		nonessential	NAD-dependent glutamate dehydrogenase
+2790458 	 coding 	 2789280..2791022	2789280	2791022	-	580	15609620	plsC	Rv2483c	COG0204I,COG0560E	 II.C.5		essential	bifunctionnal putative L-3-phosphoserine phosphatase/1-acyl-SN-glycerol-3-phosphate acyltransferase
+2791098 	 coding 	 2791019..2792494	2791019	2792494	-	491	15609621	-	Rv2484c	-	 V		nonessential	hypothetical protein
+2791475 	 coding 	 2791019..2792494	2791019	2792494	-	491	15609621	-	Rv2484c	-	 V		nonessential	hypothetical protein
+2807486 	 coding 	 2807278..2808030	2807278	2808030	+	250	15609629	-	Rv2492	COG0207F	 VI		nonessential	hypothetical protein
+2825466 	 coding 	 2824678..2825484	2824678	2825484	+	268	15609646	-	Rv2509	COG0300R	 VI		nonessential	short-chain type dehydrogenase/reductase
+2841022 	 coding 	 2840123..2849332	2840123	2849332	-	3069	15609661	fas	Rv2524c	COG0304IQ,COG0331I,COG2030I,COG4981I,COG4982I	 I.H.1		essential	fatty acid synthase
+2847281 	 coding 	 2840123..2849332	2840123	2849332	-	3069	15609661	fas	Rv2524c	COG0304IQ,COG0331I,COG2030I,COG4981I,COG4982I	 I.H.1		essential	fatty acid synthase
+2857014 	 coding 	 2854938..2857781	2854938	2857781	-	947	57117000	-	Rv2531c	COG1982E	 I.A.2		nonessential	amino acid decarboxylase
+2858669 	 coding 	 2858254..2858724	2858254	2858724	-	156	15609670	nusB	Rv2533c	COG0781K	 II.A.7		essential	transcription antitermination protein NusB
+2868659 	 coding 	 2868606..2868863	2868606	2868863	+	85	15609684	-	Rv2547	-	 V		nonessential	hypothetical protein
+2870386 	 coding 	 2870365..2870774	2870365	2870774	I				IG2592_Rv2550c-Rv2551c					
+2871048 	 coding 	 2870775..2871194	2870775	2871194	-	139	15609688	-	Rv2551c	COG1989NOU	 V		nonessential	hypothetical protein
+2878980 	 coding 	 2878571..2879929	2878571	2879929	-	452	15609696	-	Rv2559c	COG2256L	 V		nonessential	recombination factor protein RarA
+2881455 	 coding 	 2881409..2881702	2881409	2881702	+	97	15609698	-	Rv2561	COG0065E	 V		nonessential	hypothetical protein
+2886570 	 coding 	 2886373..2889795	2886373	2889795	+	1140	15609703	-	Rv2566	COG1305E,COG4196S	 V		nonessential	hypothetical protein
+2893238 	 coding 	 2892446..2893471	2892446	2893471	-	341	15609705	-	Rv2568c	COG4307S	 V		nonessential	hypothetical protein
+2894854 	 coding 	 2894512..2894901	2894512	2894901	+	129	15609707	-	Rv2570	COG3801S	 V		nonessential	hypothetical protein
+2897871 	 coding 	 2897804..2897955	2897804	2897955	I				IG2614_Rv2572c-Rv2573					
+2906918 	 coding 	 2906814..2907740	2906814	2907740	+	308	15609719	ppiB	Rv2582	COG0652O	 II.A.6		essential	peptidyl-prolyl cis-trans isomerase B
+2921490 	 coding 	 2921378..2921550	2921378	2921550	I				IG2632_Rv2590-Rv2591					
+2925962 	 coding 	 2925734..2926138	2925734	2926138	+	134	15609733	-	Rv2596	-	 V		nonessential	hypothetical protein
+2927511 	 coding 	 2927477..2927908	2927477	2927908	+	143	15609736	-	Rv2599	COG0449M	 II.C.4		nonessential	hypothetical protein
+2945042 	 coding 	 2944986..2945329	2944986	2945329	I				IG2659_Rv2615c-Rv2616					
+2946157 	 coding 	 2945847..2946287	2945847	2946287	-	146	15609754	-	Rv2617c	-	 II.C.5		nonessential	hypothetical protein
+2953307 	 coding 	 2952994..2953506	2952994	2953506	I				IG2670_Rv2626c-Rv2627c					
+2955233 	 coding 	 2955058..2955420	2955058	2955420	+	120	15609765	-	Rv2628	-	 VI		nonessential	hypothetical protein
+2959324 	 coding 	 2959191..2959334	2959191	2959334	I				IG2676_Rv2632c-Rv2633c					
+2964540 	 coding 	 2964405..2964851	2964405	2964851	+	148	15609775	-	Rv2638	COG1366T	 V		nonessential	hypothetical protein
+2968913 	 coding 	 2968851..2970122	2968851	2970122	I				IG2688_Rv2644c-Rv2645					
+2970017 	 coding 	 2968851..2970122	2968851	2970122	I				IG2688_Rv2644c-Rv2645					
+2970018 	 coding 	 2968851..2970122	2968851	2970122	I				IG2688_Rv2644c-Rv2645					
+2970019 	 coding 	 2968851..2970122	2968851	2970122	I				IG2688_Rv2644c-Rv2645					
+2980970 	 coding 	 2980963..2981190	2980963	2981190	-	75	15609797	-	Rv2660c	-	 VI		nonessential	hypothetical protein
+2985216 	 coding 	 2984733..2985254	2984733	2985254	+	173	15609805	-	Rv2668	-	 VI		nonessential	hypothetical protein
+2988630 	 coding 	 2987682..2989268	2987682	2989268	+	528	15609809	-	Rv2672	COG0596R	 II.C.2		nonessential	secreted protease
+2994187 	 coding 	 2993989..2995062	2993989	2995062	-	357	15609815	hemE	Rv2678c	COG0407H	 I.G.12		nonessential	uroporphyrinogen decarboxylase
+3000362 	 coding 	 3000112..3000609	3000112	3000609	+	165	15609820	-	Rv2683	COG0517R	 V		nonessential	hypothetical protein
+3002700 	 coding 	 3001983..3003269	3001983	3003269	+	428	57117014	arsB1	Rv2685	COG1055P	 III.A.4		nonessential	arsenic-transport integral membrane protein ArsB1
+3003115 	 coding 	 3001983..3003269	3001983	3003269	+	428	57117014	arsB1	Rv2685	COG1055P	 III.A.4		nonessential	arsenic-transport integral membrane protein ArsB1
+3006767 	 coding 	 3005845..3007062	3005845	3007062	-	405	15609826	-	Rv2689c	COG2265J	 V		nonessential	hypothetical protein
+3006898 	 coding 	 3005845..3007062	3005845	3007062	-	405	15609826	-	Rv2689c	COG2265J	 V		nonessential	hypothetical protein
+3007238 	 coding 	 3007236..3009209	3007236	3009209	-	657	15609827	-	Rv2690c	COG0531E	 II.C.5		nonessential	hypothetical protein
+3010420 	 coding 	 3010024..3010686	3010024	3010686	+	220	57117016	ceoC	Rv2692	COG0569P	 III.A.2		essential	TRK system potassium uptake protein CEOC
+3016794 	 coding 	 3016736..3016857	3016736	3016857	I				IG2745_Rv2701c-Rv2702					
+3027606 	 coding 	 3027065..3028039	3027065	3028039	+	324	15609851	-	Rv2714	-	 V		nonessential	hypothetical protein
+3027798 	 coding 	 3027065..3028039	3027065	3028039	+	324	15609851	-	Rv2714	-	 V		nonessential	hypothetical protein
+3029610 	 coding 	 3029172..3029858	3029172	3029858	+	228	15609853	-	Rv2716	COG0384R	 V		nonessential	hypothetical protein
+3031168 	 coding 	 3031040..3031537	3031040	3031537	-	165	15609856	-	Rv2719c	COG0739M	 II.C.5		nonessential	hypothetical protein
+3037377 	 coding 	 3037292..3037426	3037292	3037426	I				IG2768_Rv2724c-Rv2725c					
+3069167 	 coding 	 3068461..3070083	3068461	3070083	-	540	15609893	hsdM	Rv2756c	COG0286V	 II.A.5		nonessential	type I restriction/modification system DNA methylase HsdM
+3069805 	 coding 	 3068461..3070083	3068461	3070083	-	540	15609893	hsdM	Rv2756c	COG0286V	 II.A.5		nonessential	type I restriction/modification system DNA methylase HsdM
+3073868 	 coding 	 3073680..3074471	3073680	3074471	-	263	15609901	thyA	Rv2764c	COG0207F	 I.F.3	DR-pas	nonessential	thymidylate synthase
+3075520 	 coding 	 3075374..3075587	3075374	3075587	I				IG2810_Rv2765-Rv2766c					
+3088625 	 coding 	 3087950..3088984	3087950	3088984	-	344	15609918	-	Rv2781c	COG2070R	 I.B.7		nonessential	alanine rich oxidoreductase
+3089679 	 coding 	 3089045..3090361	3089045	3090361	-	438	15609919	pepR	Rv2782c	COG0612R	 II.B.3		nonessential	zinc protease PEPR
+3099269 	 coding 	 3098964..3100169	3098964	3100169	-	401	15609927	ltp1	Rv2790c	COG0183I	 III.A.5		nonessential	lipid-transfer protein
+3104189 	 coding 	 3103937..3104911	3103937	3104911	-	324	15609932	-	Rv2795c	COG1409R	 V		nonessential	hypothetical protein
+3105144 	 coding 	 3105056..3105619	3105056	3105619	-	187	15609933	lppV	Rv2796c	-	 II.C.1		nonessential	lipoprotein LppV
+3108055 	 coding 	 3107768..3108397	3107768	3108397	+	209	15609936	-	Rv2799	-	 II.C.5		nonessential	hypothetical protein
+3108674 	 coding 	 3108416..3110065	3108416	3110065	+	549	15609937	-	Rv2800	COG2936R	 IV.I		nonessential	hydrolase
+3112877 	 coding 	 3112867..3113271	3112867	3113271	+	134	15609942	-	Rv2805	-	 V		nonessential	hypothetical protein
+3118449 	 coding 	 3118224..3119036	3118224	3119036	+	270	15609950	-	Rv2813	COG3267U	 III.D		essential	hypothetical protein
+3119513 	 coding 	 3119037..3120565	3119037	3120565	I				IG2858_Rv2813-Rv2814c					
+3122943 	 coding 	 3121828..3123624	3121828	3123624	I				IG2860_Rv2815c-Rv2816c					
+3122949 	 coding 	 3121828..3123624	3121828	3123624	I				IG2860_Rv2815c-Rv2816c					
+3122951 	 coding 	 3121828..3123624	3121828	3123624	I				IG2860_Rv2815c-Rv2816c					
+3135896 	 coding 	 3135788..3136333	3135788	3136333	-	181	15609965	-	Rv2828c	COG4293S	 V		essential	hypothetical protein
+3135912 	 coding 	 3135788..3136333	3135788	3136333	-	181	15609965	-	Rv2828c	COG4293S	 V		essential	hypothetical protein
+3137237 	 coding 	 3137225..3137270	3137225	3137270	I				IG2875_Rv2830c-Rv2831					
+3158935 	 coding 	 3158165..3160054	3158165	3160054	-	629	15609987	-	Rv2850c	COG1239H,COG1240H	 VI		nonessential	magnesium chelatase
+3164135 	 coding 	 3164116..3164151	3164116	3164151	I				IG2898_Rv2853-Rv2854					
+3165074 	 coding 	 3164152..3165192	3164152	3165192	+	346	15609991	-	Rv2854	COG2267I	 VI		nonessential	hypothetical protein
+3174496 	 coding 	 3174059..3174643	3174059	3174643	-	194	15609999	-	Rv2862c	-	 V		nonessential	hypothetical protein
+3174748 	 coding 	 3174644..3174991	3174644	3174991	I				IG2907_Rv2862c-Rv2863					
+3175702 	 coding 	 3175454..3177265	3175454	3177265	-	603	15610001	-	Rv2864c	COG0768M	 II.C.3		nonessential	penicillin-binding lipoprotein
+3178445 	 coding 	 3178086..3178457	3178086	3178457	I				IG2911_Rv2866-Rv2867c					
+3180988 	 coding 	 3180548..3181762	3180548	3181762	-	404	15610006	-	Rv2869c	COG0750M	 II.C.5		essential	transmembrane protein
+3188142 	 coding 	 3188008..3188871	3188008	3188871	-	287	57117033	-	Rv2877c	-	 III.A.2		nonessential	integral membrane protein
+3188769 	 coding 	 3188008..3188871	3188008	3188871	-	287	57117033	-	Rv2877c	-	 III.A.2		nonessential	integral membrane protein
+3189242 	 coding 	 3188876..3189397	3188876	3189397	-	173	15610015	mpt53	Rv2878c	COG0526OC	 II.C.2		nonessential	soluble secreted antigen MPT53 precursor
+3189580 	 coding 	 3189398..3189582	3189398	3189582	I				IG2923_Rv2878c-Rv2879c					
+3191027 	 coding 	 3190701..3191621	3190701	3191621	-	306	15610018	cdsA	Rv2881c	COG0575I	 I.H.3		essential	integral membrane phosphatidate cytidylyltransferase CdsA
+3195731 	 coding 	 3195545..3196432	3195545	3196432	-	295	15610023	-	Rv2886c	COG2452L	 IV.B.1		nonessential	resolvase
+3200304 	 coding 	 3200266..3201015	3200266	3201015	+	249	15610028	-	Rv2891	COG0739M	 V		nonessential	hypothetical protein
+3207297 	 coding 	 3206431..3207942	3206431	3207942	-	503	15610034	-	Rv2897c	COG0606O	 V		essential	hypothetical protein
+3214790 	 coding 	 3214628..3215572	3214628	3215572	+	314	15610042	lppW	Rv2905	-	 II.C.1		nonessential	alanine rich lipoprotein LppW
+3226930 	 coding 	 3226363..3228243	3226363	3228243	+	626	15610054	-	Rv2917	COG1061KL	 V		nonessential	hypothetical protein
+3236230 	 coding 	 3234189..3237806	3234189	3237806	-	1205	57117036	smc	Rv2922c	COG1196D	 IV.I		nonessential	chromosome partition protein Smc
+3243630 	 coding 	 3243282..3243696	3243282	3243696	I				IG2975_Rv2929-Rv2930					
+3244414 	 coding 	 3243697..3245448	3243697	3245448	+	583	57117038	fadD26	Rv2930	COG0318IQ	 I.A.3		nonessential	acyl-CoA synthetase
+3254880 	 coding 	 3251072..3255688	3251072	3255688	+	1538	15610069	ppsB	Rv2932	COG3321Q	 I.I		nonessential	phenolpthiocerol synthesis type-I polyketide synthase PPSB
+3260301 	 coding 	 3255685..3262251	3255685	3262251	+	2188	15610070	ppsC	Rv2933	COG3321Q	 I.I		nonessential	phenolpthiocerol synthesis type-I polyketide synthase PPSC
+3266030 	 coding 	 3262248..3267731	3262248	3267731	+	1827	15610071	ppsD	Rv2934	COG3321Q	 I.I		nonessential	phenolpthiocerol synthesis type-I polyketide synthase PPSD
+3267743 	 coding 	 3267737..3272203	3267737	3272203	+	1488	15610072	ppsE	Rv2935	COG1020Q,COG3321Q	 I.I		nonessential	phenolpthiocerol synthesis type-I polyketide synthase PPSE
+3271037 	 coding 	 3267737..3272203	3267737	3272203	+	1488	15610072	ppsE	Rv2935	COG1020Q,COG3321Q	 I.I		nonessential	phenolpthiocerol synthesis type-I polyketide synthase PPSE
+3273138 	 coding 	 3272214..3273209	3272214	3273209	+	331	15610073	drrA	Rv2936	COG1131V	 III.A.6		essential	daunorubicin-DIM-transport ATP-binding protein ABC transporter DrrA
+3296721 	 coding 	 3296350..3297840	3296350	3297840	-	496	15610084	pks15	Rv2947c	COG3321Q	 I.I		nonessential	polyketide synthase PKS15
+3302683 	 coding 	 3302345..3303102	3302345	3303102	I				IG2997_Rv2950c-Rv2951c					
+3311119 	 coding 	 3310714..3312000	3310714	3312000	-	428	15610095	-	Rv2958c	COG1819GC	 IV.H		nonessential	glycosyl transferase
+3312632 	 coding 	 3312101..3312838	3312101	3312838	-	245	15610096	-	Rv2959c	COG3510V	 IV.H		nonessential	methyltransferase (methylase)
+3314412 	 coding 	 3313773..3315122	3313773	3315122	-	449	15610099	-	Rv2962c	COG1819GC	 IV.H		nonessential	glycosyl transferase
+3318244 	 coding 	 3317462..3318329	3317462	3318329	I				IG3011_Rv2964-Rv2965c					
+3326554 	 coding 	 3326101..3326949	3326101	3326949	+	282	15610108	-	Rv2971	COG0656R	 I.B.7		essential	oxidoreductase
+3335708 	 coding 	 3335164..3335748	3335164	3335748	-	194	15610116	-	Rv2979c	COG2452L	 IV.B.1		nonessential	resolvase
+3336587 	 coding 	 3336506..3336795	3336506	3336795	I				IG3028_Rv2980-Rv2981c					
+3336646 	 coding 	 3336506..3336795	3336506	3336795	I				IG3028_Rv2980-Rv2981c					
+3338577 	 coding 	 3337995..3338999	3337995	3338999	-	334	15610119	gpsA	Rv2982c	COG0240C	 I.H.3		nonessential	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+3352932 	 coding 	 3352458..3353468	3352458	3353468	-	336	15610132	leuB	Rv2995c	COG0473CE	 I.D.7		essential	3-isopropylmalate dehydrogenase
+3354896 	 coding 	 3353483..3355069	3353483	3355069	-	528	57117042	serA1	Rv2996c	COG0111HE	 I.D.3		essential	D-3-phosphoglycerate dehydrogenase
+3369869 	 coding 	 3369855..3369949	3369855	3369949	I				IG3059_Rv3010c-Rv3011c					
+3370565 	 coding 	 3369950..3371434	3369950	3371434	-	494	15610148	gatA	Rv3011c	COG0154J	 II.A.3		essential	aspartyl/glutamyl-tRNA amidotransferase subunit A
+3371260 	 coding 	 3369950..3371434	3369950	3371434	-	494	15610148	gatA	Rv3011c	COG0154J	 II.A.3		essential	aspartyl/glutamyl-tRNA amidotransferase subunit A
+3401605 	 coding 	 3401055..3401918	3401055	3401918	-	287	15610178	-	Rv3041c	COG1119P	 III.A		nonessential	ABC transporter ATP-binding protein
+3401871 	 coding 	 3401055..3401918	3401055	3401918	-	287	15610178	-	Rv3041c	COG1119P	 III.A		nonessential	ABC transporter ATP-binding protein
+3404376 	 coding 	 3403200..3404921	3403200	3404921	-	573	15610180	ctaD	Rv3043c	COG0843C	 I.B.6a		essential	cytochrome C oxidase polypeptide I
+3411528 	 coding 	 3411217..3411957	3411217	3411957	-	246	15610187	-	Rv3050c	COG1309K	 I.J.1		essential	AsnC family transcriptional regulator
+3415332 	 coding 	 3414959..3415434	3414959	3415434	I				IG3104_Rv3053c-Rv3054c					
+3418328 	 coding 	 3417799..3418662	3417799	3418662	-	287	15610194	-	Rv3057c	COG1028IQR	 VI		nonessential	short chain dehydrogenase
+3418330 	 coding 	 3417799..3418662	3417799	3418662	-	287	15610194	-	Rv3057c	COG1028IQR	 VI		nonessential	short chain dehydrogenase
+3420825 	 coding 	 3419492..3420970	3419492	3420970	+	492	15610196	cyp136	Rv3059	COG2124Q	 IV.F		nonessential	cytochrome P450 136
+3424585 	 coding 	 3423262..3425427	3423262	3425427	-	721	15610198	fadE22	Rv3061c	COG1960I	 I.A.3		essential	acyl-CoA dehydrogenase FADE22
+3426795 	 coding 	 3425584..3427107	3425584	3427107	+	507	15610199	ligB	Rv3062	COG1793L	 II.A.5		nonessential	ATP-dependent DNA ligase
+3429202 	 coding 	 3427243..3429519	3427243	3429519	+	758	15610200	cstA	Rv3063	COG1966T	 III.E		nonessential	carbon starvation protein A CstA
+3440542 	 coding 	 3439541..3441352	3439541	3441352	+	603	57117053	-	Rv3077	COG3119P	 I.C.5		nonessential	hydrolase
+3450725 	 coding 	 3449997..3450923	3449997	3450923	+	308	15610221	lipR	Rv3084	COG0657I	 II.B.5		nonessential	acetyl-hydrolase/esterase LipR
+3454263 	 coding 	 3452925..3454343	3452925	3454343	+	472	15610224	-	Rv3087	-	 V		essential	hypothetical protein
+3455686 	 coding 	 3454340..3455764	3454340	3455764	+	474	15610225	-	Rv3088	-	 V		nonessential	hypothetical protein
+3457514 	 coding 	 3457273..3458210	3457273	3458210	I				IG3140_Rv3089-Rv3090					
+3460986 	 coding 	 3460814..3461734	3460814	3461734	-	306	15610229	-	Rv3092c	COG2354S	 II.C.5		nonessential	integral membrane protein
+3464629 	 coding 	 3464547..3465686	3464547	3465686	+	379	15610233	-	Rv3096	-	 V		nonessential	hypothetical protein
+3467465 	 coding 	 3467210..3467662	3467210	3467662	-	150	15610235	-	Rv3098c	COG4992E	 VI		nonessential	hypothetical protein
+3475159 	 coding 	 3474007..3475377	3474007	3475377	+	456	15610243	fprA	Rv3106	COG0493ER	 I.B.6c		nonessential	NADPH:adrenodoxin oxidoreductase FPRA (NADPH-ferredoxin reductase)
+3480789 	 coding 	 3480759..3481289	3480759	3481289	+	176	15610251	-	Rv3114	COG0590FJ	 V		essential	hypothetical protein
+3484012 	 coding 	 3483974..3484807	3483974	3484807	+	277	15610254	cysA3	Rv3117	COG2897P	 I.D.3		nonessential	thiosulfate sulfurtransferase CysA3
+3491767 	 coding 	 3491652..3491807	3491652	3491807	I				IG3176_Rv3125c-Rv3126c					
+3498277 	 coding 	 3497529..3499265	3497529	3499265	-	578	15610268	devS	Rv3132c	COG2203T,COG4585T	 I.J.2		essential	two component sensor histidine kinase DEVS
+3498418 	 coding 	 3497529..3499265	3497529	3499265	-	578	15610268	devS	Rv3132c	COG2203T,COG4585T	 I.J.2		essential	two component sensor histidine kinase DEVS
+3503231 	 coding 	 3502937..3503392	3502937	3503392	I				IG3186_Rv3136-Rv3137					
+3504930 	 coding 	 3504195..3505283	3504195	3505283	+	362	15610274	pflA	Rv3138	COG1180O	 IV.H		nonessential	pyruvate formate lyase activating protein PflA
+3505005 	 coding 	 3504195..3505283	3504195	3505283	+	362	15610274	pflA	Rv3138	COG1180O	 IV.H		nonessential	pyruvate formate lyase activating protein PflA
+3509091 	 coding 	 3509067..3509117	3509067	3509117	I				IG3191_Rv3141-Rv3142c					
+3514512 	 coding 	 3513338..3514660	3513338	3514660	+	440	15610284	nuoD	Rv3148	COG0649C	 I.B.6a		nonessential	NADH dehydrogenase subunit D
+3521044 	 coding 	 3520507..3521142	3520507	3521142	+	211	15610289	nuoI	Rv3153	COG1143C	 I.B.6a		nonessential	NADH dehydrogenase subunit I
+3530955 	 coding 	 3529990..3531138	3529990	3531138	-	382	15610297	-	Rv3161c	COG4638PR	 VI		nonessential	dioxygenase
+3548641 	 coding 	 3547618..3548907	3547618	3548907	+	429	15610315	-	Rv3179	COG1373R	 V		nonessential	hypothetical protein
+3555699 	 coding 	 3555422..3556687	3555422	3556687	-	421	15610326	-	Rv3190c	-	 VI		nonessential	hypothetical protein
+3560645 	 coding 	 3560194..3563172	3560194	3563172	-	992	15610329	-	Rv3193c	COG1615S	 II.C.5		nonessential	hypothetical protein
+3561155 	 coding 	 3560194..3563172	3560194	3563172	-	992	15610329	-	Rv3193c	COG1615S	 II.C.5		nonessential	hypothetical protein
+3566943 	 coding 	 3566897..3567023	3566897	3567023	I				IG3247_Rv3196A-Rv3197					
+3571834 	 coding 	 3571602..3572543	3571602	3572543	-	313	15610335	nudC	Rv3199c	COG2816L	 IV.I		nonessential	NADH pyrophosphatase
+3573636 	 coding 	 3572602..3573669	3572602	3573669	-	355	15610336	-	Rv3200c	COG1226P	 II.C.5		nonessential	transmembrane cation transporter
+3577958 	 coding 	 3577033..3580200	3577033	3580200	-	1055	15610338	-	Rv3202c	COG0210L,COG2887L	 II.A.5		nonessential	ATP-dependent DNA helicase
+3593546 	 coding 	 3593520..3593852	3593520	3593852	+	110	15610352	-	Rv3216	COG0454KR	 IV.H		nonessential	acetyltransferase
+3594124 	 coding 	 3593804..3594235	3593804	3594235	-	143	15610353	-	Rv3217c	-	 II.C.5		nonessential	integral membrane protein
+3610441 	 coding 	 3610374..3611189	3610374	3611189	-	271	15610370	-	Rv3234c	-	 V		nonessential	hypothetical protein
+3612009 	 coding 	 3611959..3613116	3611959	3613116	-	385	57117079	-	Rv3236c	COG0475P	 III.A.2		essential	integral membrane transport protein
+3621423 	 coding 	 3621255..3621569	3621255	3621569	I				IG3298_Rv3241c-Rv3242c					
+3624486 	 coding 	 3623159..3624910	3623159	3624910	-	583	15610380	lpqB	Rv3244c	-	 II.C.1		essential	lipoprotein LpqB
+3638093 	 coding 	 3637312..3638709	3637312	3638709	-	465	15610393	manB	Rv3257c	COG1109G	 I.A.1		essential	phosphomannomutase/phosphoglucomutase
+3647041 	 coding 	 3646895..3647809	3646895	3647809	-	304	15610402	rmlD	Rv3266c	COG1091M	 I.C.3		nonessential	dTDP-6-deoxy-L-lyxo-4-hexulose reductase RmlD
+3658266 	 coding 	 3658114..3658638	3658114	3658638	-	174	15610411	purE	Rv3275c	COG0041F	 I.F.1		essential	phosphoribosylaminoimidazole carboxylase catalytic subunit
+3670040 	 coding 	 3670034..3670411	3670034	3670411	-	125	15610425	-	Rv3289c	-	 II.C.5		nonessential	transmembrane protein
+3679949 	 coding 	 3676775..3681316	3676775	3681316	+	1513	15610432	lhr	Rv3296	COG1201R	 II.A.5		nonessential	ATP-dependent helicase
+3680644 	 coding 	 3676775..3681316	3676775	3681316	+	1513	15610432	lhr	Rv3296	COG1201R	 II.A.5		nonessential	ATP-dependent helicase
+3681548 	 coding 	 3681320..3682087	3681320	3682087	+	255	15610433	nei	Rv3297	COG0266L	 II.A.5		nonessential	endonuclease VIII
+3690016 	 coding 	 3689457..3690938	3689457	3690938	-	493	15610439	lpdA	Rv3303c	COG1249C	 I.B.2		nonessential	flavoprotein disulfide reductase
+3692757 	 coding 	 3691639..3692808	3691639	3692808	-	389	57117086	amiA1	Rv3305c	COG1473R	 II.B.3		nonessential	N-acyl-L-amino acid amidohydrolase
+3693681 	 coding 	 3692805..3693989	3692805	3693989	-	394	57117087	amiB1	Rv3306c	COG1473R	 II.B.3		nonessential	amidohydrolase AmiB1
+3694960 	 coding 	 3694864..3696468	3694864	3696468	+	534	15610444	pmmB	Rv3308	COG1109G	 I.A.1		nonessential	phosphomannomutase
+3696181 	 coding 	 3694864..3696468	3694864	3696468	+	534	15610444	pmmB	Rv3308	COG1109G	 I.A.1		nonessential	phosphomannomutase
+3697708 	 coding 	 3697198..3698097	3697198	3698097	+	299	15610446	-	Rv3310	-	 IV.I		nonessential	acid phosphatase
+3753415 	 coding 	 3753185..3753764	3753185	3753764	I				IG3405_Rv3347c-Rv3348					
+3753693 	 coding 	 3753185..3753764	3753185	3753764	I				IG3405_Rv3347c-Rv3348					
+3771628 	 coding 	 3771344..3772534	3771344	3772534	+	396	15610495	-	Rv3359	COG1902C	 I.B.7		nonessential	oxidoreductase
+3772616 	 coding 	 3772535..3772650	3772535	3772650	I				IG3417_Rv3359-Rv3360					
+3776706 	 coding 	 3774871..3777501	3774871	3777501	-	876	15610501	-	Rv3365c	COG0642T	 V		nonessential	hypothetical protein
+3785946 	 coding 	 3784932..3786272	3784932	3786272	+	446	15610507	-	Rv3371	-	 V		essential	hypothetical protein
+3786033 	 coding 	 3784932..3786272	3784932	3786272	+	446	15610507	-	Rv3371	-	 V		essential	hypothetical protein
+3788365 	 coding 	 3787726..3788367	3787726	3788367	+	213	15610509	echA18	Rv3373	COG1024I	 I.A.3		nonessential	enoyl-CoA hydratase
+3792581 	 coding 	 3792358..3793248	3792358	3793248	-	296	15610514	-	Rv3378c	-	 VI		nonessential	hypothetical protein
+3794884 	 coding 	 3794868..3795099	3794868	3795099	I				IG3437_Rv3379c-Rv3380c					
+3797447 	 coding 	 3797437..3798489	3797437	3798489	-	350	15610519	idsB	Rv3383c	COG0142H	 I.G.11		nonessential	polyprenyl synthetase IdsB
+3808103 	 coding 	 3807574..3808437	3807574	3808437	-	287	15610528	cmaA1	Rv3392c	COG2230M	 I.H.2		nonessential	cyclopropane-fatty-acyl-phospholipid synthase 1 CMAA1 (cyclopropane fatty acid synthase) (CFA synthase) (cyclopropane mycolic acid synthase 1)
+3811629 	 coding 	 3811022..3811636	3811022	3811636	-	204	57117102	-	Rv3395c	-	 II.C.5		nonessential	hypothetical protein
+3815477 	 coding 	 3815027..3816106	3815027	3816106	-	359	57117104	idsA1	Rv3398c	COG0142H	 I.G.11		essential	multifunctional dimethylallyltransferase/farnesyl diphosphate synthetase/ farnesyltranstransferase
+3825560 	 coding 	 3825330..3826217	3825330	3826217	+	295	15610542	-	Rv3406	COG2175Q	 VI		nonessential	dioxygenase
+3829152 	 coding 	 3828783..3829910	3828783	3829910	-	375	15610546	guaB3	Rv3410c	COG0516F	 I.F.1		nonessential	inositol-5-monophosphate dehydrogenase
+3830695 	 coding 	 3829930..3831519	3829930	3831519	-	529	15610547	guaB2	Rv3411c	COG0516F,COG0517R	 I.F.1		essential	inositol-5-monophosphate dehydrogenase
+3840719 	 coding 	 3840194..3841420	3840194	3841420	-	408	15610559	alr	Rv3423c	COG0787M	 I.D.6		essential	alanine racemase
+3851888 	 coding 	 3851792..3853213	3851792	3853213	-	473	15610569	-	Rv3433c	COG0062S,COG0063G	 V		nonessential	hypothetical protein
+3859376 	 coding 	 3858259..3859662	3858259	3859662	-	467	15610575	-	Rv3439c	-	 V		nonessential	hypothetical protein
+3871246 	 coding 	 3871084..3872496	3871084	3872496	-	470	15610586	-	Rv3450c	-	 II.C.4		nonessential	hypothetical protein
+3873392 	 coding 	 3872617..3873405	3872617	3873405	+	262	57117108	cut3	Rv3451	-	 II.C.2		nonessential	cutinase precursor CUT3
+3874191 	 coding 	 3874133..3874403	3874133	3874403	I				IG3511_Rv3452-Rv3453					
+3874726 	 coding 	 3874404..3874736	3874404	3874736	+	110	15610589	-	Rv3453	-	 II.C.5		nonessential	transmembrane protein
+3881187 	 coding 	 3880907..3881764	3880907	3881764	+	285	15610599	-	Rv3463	COG2141C	 II.B.4		nonessential	hypothetical protein
+3893480 	 coding 	 3892371..3893720	3892371	3893720	-	449	15610612	kgtP	Rv3476c	COG0477GEPR	 III.A.3		nonessential	dicarboxylic acid transport integral membrane protein KgtP
+3895727 	 coding 	 3895608..3895819	3895608	3895819	I				IG3537_Rv3478-Rv3479					
+3898869 	 coding 	 3895820..3898885	3895820	3898885	+	1021	57117112	-	Rv3479	-	 II.C.5		nonessential	hypothetical protein
+3909235 	 coding 	 3908236..3909738	3908236	3909738	+	500	15610626	otsA	Rv3490	COG0380G	 III.E		essential	alpha,alpha-trehalose-phosphate synthase
+3920051 	 coding 	 3919220..3920062	3919220	3920062	-	280	15610636	yrbE4B	Rv3500c	COG0767Q	 IV.A		nonessential	integral membrane protein YrbE4b
+3922836 	 coding 	 3922471..3923673	3922471	3923673	+	400	15610640	fadE26	Rv3504	COG1960I	 I.A.3		nonessential	acyl-CoA dehydrogenase FADE26
+3939068 	 coding 	 3938421..3939257	3938421	3939257	-	278	15610646	-	Rv3510c	COG2159R	 V		nonessential	hypothetical protein
+3977226 	 coding 	 3977062..3977922	3977062	3977922	+	286	57117122	-	Rv3538	COG2030I	 I.H.2		essential	dehydrogenase
+3983271 	 coding 	 3983125..3984144	3983125	3984144	-	339	15610680	fadE28	Rv3544c	COG1960I	 I.A.3		essential	acyl-CoA dehydrogenase FADE28
+3984321 	 coding 	 3984144..3985445	3984144	3985445	-	433	15610681	cyp125	Rv3545c	COG2124Q	 IV.F		essential	cytochrome P450 125
+3989914 	 coding 	 3989896..3990774	3989896	3990774	+	292	15610687	-	Rv3551	COG1788I	 I.A.2		essential	CoA-transferase subunit alpha
+3992801 	 coding 	 3992685..3994742	3992685	3994742	+	685	15610690	fdxB	Rv3554	COG1018C,COG3239I	 I.B.6c		nonessential	electron transfer protein FdxB
+3994898 	 coding 	 3994830..3995699	3994830	3995699	-	289	15610691	-	Rv3555c	-	 V		nonessential	hypothetical protein
+4005114 	 coding 	 4004291..4005250	4004291	4005250	+	319	15610699	fadE32	Rv3563	COG1960I	 I.A.3		essential	acyl-CoA dehydrogenase FADE32
+4008747 	 coding 	 4008719..4009282	4008719	4009282	-	187	15610703	-	Rv3567c	COG1853R	 I.B.7		nonessential	oxidoreductase
+4012219 	 coding 	 4011086..4012270	4011086	4012270	-	394	15610706	-	Rv3570c	COG1960I	 I.B.7		nonessential	oxidoreductase
+4013832 	 coding 	 4013511..4014041	4013511	4014041	+	176	15610708	-	Rv3572	-	 VI		nonessential	hypothetical protein
+4028752 	 coding 	 4027891..4028967	4027891	4028967	+	358	15610722	-	Rv3586	COG1623R	 V		nonessential	DNA integrity scanning protein DisA
+4038287 	 coding 	 4038158..4040704	4038158	4040704	-	848	57117131	clpC1	Rv3596c	COG0542O	 II.B.3		essential	ATP-dependent protease ATP-binding subunit ClpC1
+4042761 	 coding 	 4041423..4042940	4041423	4042940	-	505	15610734	lysS	Rv3598c	COG1190J	 II.A.3		essential	lysyl-tRNA synthetase
+4043365 	 coding 	 4043041..4043859	4043041	4043859	-	272	15610736	-	Rv3600c	COG1521K	 V		nonessential	pantothenate kinase
+4054637 	 coding 	 4054142..4054696	4054142	4054696	-	184	15610750	-	Rv3614c	-	 V		essential	hypothetical protein
+4056416 	 coding 	 4056376..4057732	4056376	4057732	I				IG3676_Rv3616c-Rv3617					
+4060210 	 coding 	 4059984..4060268	4059984	4060268	-	94	15610755	esxV	Rv3619c	-	 VI		nonessential	putative ESAT-6 like protein ESXV (ESAT-6 like protein 1)
+4067152 	 coding 	 4065900..4067285	4065900	4067285	-	461	15610763	-	Rv3627c	COG2027M	 II.C.3		essential	hypothetical protein
+4078863 	 coding 	 4078520..4079749	4078520	4079749	-	409	15610776	-	Rv3640c	COG3328L	 IV.B.1		nonessential	transposase
+4088346 	 coding 	 4088328..4088531	4088328	4088531	-	67	15610784	cspA	Rv3648c	COG1278K	 III.E		essential	cold shock protein A
+4089058 	 coding 	 4088781..4091096	4088781	4091096	+	771	15610785	-	Rv3649	COG1205R	 II.A.7		essential	helicase
+4095295 	 coding 	 4094923..4095300	4094923	4095300	-	125	15610791	-	Rv3655c	-	 V		nonessential	hypothetical protein
+4097203 	 coding 	 4096936..4097994	4096936	4097994	-	352	57117141	-	Rv3659c	COG4962U	 V		nonessential	hypothetical protein
+4105757 	 coding 	 4105459..4107084	4105459	4107084	-	541	15610802	dppA	Rv3666c	COG4166E	 III.A.1		essential	periplasmic dipeptide-binding lipoprotein DppA
+4107074 	 coding 	 4105459..4107084	4105459	4107084	-	541	15610802	dppA	Rv3666c	COG4166E	 III.A.1		essential	periplasmic dipeptide-binding lipoprotein DppA
+4109354 	 coding 	 4107792..4109747	4107792	4109747	+	651	15610803	acs	Rv3667	COG0365I	 I.A.3		nonessential	acetyl-CoA synthetase
+4112429 	 coding 	 4112322..4113515	4112322	4113515	-	397	15610807	-	Rv3671c	COG0265O	 II.B.3		nonessential	membrane-associated serine protease
+4116682 	 coding 	 4116478..4117152	4116478	4117152	+	224	15610812	-	Rv3676	COG0664T	 I.J.1		nonessential	CRP/FNR family transcriptional regulator
+4117161 	 coding 	 4117153..4117257	4117153	4117257	I				IG3736_Rv3676-Rv3677c					
+4119246 	 coding 	 4118776..4119798	4118776	4119798	+	340	15610815	-	Rv3679	COG0003P	 III.A.4		essential	anion transporter ATPase
+4121675 	 coding 	 4121555..4121915	4121555	4121915	I				IG3742_Rv3681c-Rv3682					
+4130711 	 coding 	 4130357..4131712	4130357	4131712	+	451	15610825	-	Rv3689	-	 II.C.5		nonessential	transmembrane protein
+4135112 	 coding 	 4134726..4136048	4134726	4136048	+	440	15610829	-	Rv3693	COG1721R	 II.C.5		nonessential	hypothetical protein
+4138377 	 coding 	 4138202..4139755	4138202	4139755	-	517	15610832	glpK	Rv3696c	COG0554C	 I.A.1		nonessential	glycerol kinase
+4145737 	 coding 	 4145614..4146891	4145614	4146891	-	425	15610839	-	Rv3703c	COG1262S	 V		nonessential	hypothetical protein
+4146330 	 coding 	 4145614..4146891	4145614	4146891	-	425	15610839	-	Rv3703c	COG1262S	 V		nonessential	hypothetical protein
+4151855 	 coding 	 4151180..4152217	4151180	4152217	-	345	15610844	asd	Rv3708c	COG0136E	 I.D.2		essential	aspartate-semialdehyde dehydrogenase
+4156239 	 coding 	 4155740..4156729	4155740	4156729	-	329	15610847	dnaQ	Rv3711c	COG0847L	 II.A.5		nonessential	DNA polymerase III subunit epsilon
+4156503 	 coding 	 4155740..4156729	4155740	4156729	-	329	15610847	dnaQ	Rv3711c	COG0847L	 II.A.5		nonessential	DNA polymerase III subunit epsilon
+4158361 	 coding 	 4158227..4158922	4158227	4158922	+	231	15610849	cobQ2	Rv3713	COG3442R	 I.G.13		essential	cobyric acid synthase CobQ2
+4159195 	 coding 	 4158931..4159821	4158931	4159821	-	296	15610850	-	Rv3714c	-	 V		nonessential	hypothetical protein
+4163944 	 coding 	 4163736..4164998	4163736	4164998	+	420	15610856	-	Rv3720	COG2230M	 I.H.3		nonessential	fatty acid synthase
+4174564 	 coding 	 4172955..4174763	4172955	4174763	+	602	15610863	-	Rv3727	COG3349S	 I.B.7		nonessential	oxidoreductase
+4179089 	 coding 	 4178285..4180615	4178285	4180615	+	776	15610865	-	Rv3729	COG0500QR,COG1964R	 IV.H		nonessential	transferase
+4190532 	 coding 	 4190518..4190832	4190518	4190832	I				IG3802_Rv3739c-Rv3740c					
+4197189 	 coding 	 4197108..4197235	4197108	4197235	I				IG3810_Rv3747-Rv3748					
+4200220 	 coding 	 4199721..4200221	4199721	4200221	-	166	15610889	-	Rv3753c	-	 V		nonessential	hypothetical protein
+4202383 	 coding 	 4201894..4202613	4201894	4202613	-	239	15610892	proZ	Rv3756c	COG1174E	 III.E		nonessential	osmoprotectant (glycine betaine/carnitine/choline/L-proline) transport integral membrane protein ABC transporter PROZ
+4205120 	 coding 	 4204426..4205373	4204426	4205373	-	315	15610895	proX	Rv3759c	COG1732M	 III.E		nonessential	osmoprotectant (glycine betaine/carnitine/choline/L-proline) binding lipoprotein PROX
+4205918 	 coding 	 4205862..4206917	4205862	4206917	-	351	15610897	fadE36	Rv3761c	COG3173R	 I.A.3		nonessential	acyl-CoA dehydrogenase
+4208273 	 coding 	 4206996..4208876	4206996	4208876	-	626	15610898	-	Rv3762c	COG2015Q	 I.C.5		nonessential	hydrolase
+4210876 	 coding 	 4209582..4211009	4209582	4211009	-	475	15610900	-	Rv3764c	COG0642T	 I.J.2		nonessential	two component sensor kinase
+4215484 	 coding 	 4215200..4215775	4215200	4215775	-	191	15610906	-	Rv3770c	-	 IV.B.1		nonessential	hypothetical protein
+4216255 	 coding 	 4216078..4216269	4216078	4216269	-	63	57117154	-	Rv3770B	-	 IV.B.1		nonessential	hypothetical protein
+4217557 	 coding 	 4217134..4218195	4217134	4218195	+	353	15610908	hisC2	Rv3772	COG0079E	 I.D.5		nonessential	putative aminotransferase
+4218350 	 coding 	 4218241..4218825	4218241	4218825	-	194	15610909	-	Rv3773c	-	 V		nonessential	hypothetical protein
+4220174 	 coding 	 4219685..4220932	4219685	4220932	+	415	15610911	lipE	Rv3775	COG1680V	 II.B.5		nonessential	lipase LipE
+4223172 	 coding 	 4222694..4223680	4222694	4223680	+	328	15610913	-	Rv3777	COG0604CR	 I.B.7		nonessential	oxidoreductase
+4232327 	 coding 	 4231320..4232393	4231320	4232393	+	357	15610921	-	Rv3785	-	 VI		nonessential	hypothetical protein
+4233299 	 coding 	 4232374..4233597	4232374	4233597	-	407	15610922	-	Rv3786c	COG0463M,COG0739M	 VI		nonessential	hypothetical protein
+4238842 	 coding 	 4237932..4239863	4237932	4239863	+	643	15610928	-	Rv3792	-	 II.C.5		essential	transmembrane protein
+4240671 	 coding 	 4239863..4243147	4239863	4243147	+	1094	15610929	embC	Rv3793	-	 II.C.2	DR-emb	essential	integral membrane indolylacetylinositol arabinosyltransferase EmbC (arabinosylindolylacetylinositol synthase)
+4247431 	 coding 	 4246514..4249810	4246514	4249810	+	1098	15610931	embB	Rv3795	-	 II.C.2	DR-emb-inh-rif	essential	integral membrane indolylacetylinositol arabinosyltransferase EMBB (arabinosylindolylacetylinositol synthase)
+4247646 	 coding 	 4246514..4249810	4246514	4249810	+	1098	15610931	embB	Rv3795	-	 II.C.2	DR-emb-inh-rif	essential	integral membrane indolylacetylinositol arabinosyltransferase EMBB (arabinosylindolylacetylinositol synthase)
+4251297 	 coding 	 4251085..4252866	4251085	4252866	+	593	15610933	fadE35	Rv3797	COG1960I	 I.A.3		nonessential	acyl-CoA dehydrogenase FADE35
+4261499 	 coding 	 4261153..4263066	4261153	4263066	-	637	15610937	fadD32	Rv3801c	COG0318IQ	 I.A.3		essential	acyl-CoA synthetase
+4263279 	 coding 	 4263067..4263354	4263067	4263354	I				IG3866_Rv3801c-Rv3802c					
+4264218 	 coding 	 4263355..4264365	4263355	4264365	-	336	15610938	-	Rv3802c	-	 II.C.4		essential	hypothetical protein
+4264219 	 coding 	 4263355..4264365	4263355	4264365	-	336	15610938	-	Rv3802c	-	 II.C.4		essential	hypothetical protein
+4266215 	 coding 	 4265642..4266658	4265642	4266658	-	338	15610940	fbpA	Rv3804c	COG0627R	 I.H.3		nonessential	secreted antigen 85-A FBPA (Mycolyl transferase 85A) (fibronectin-binding protein A) (antigen 85 complex A)
+4269387 	 coding 	 4268925..4269833	4268925	4269833	-	302	15610942	-	Rv3806c	COG0382H	 II.C.5		essential	phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase
+4269606 	 coding 	 4268925..4269833	4268925	4269833	-	302	15610942	-	Rv3806c	COG0382H	 II.C.5		essential	phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase
+4287164 	 coding 	 4286721..4287935	4286721	4287935	+	404	15610958	-	Rv3822	-	 V		nonessential	hypothetical protein
+4287361 	 coding 	 4286721..4287935	4286721	4287935	+	404	15610958	-	Rv3822	-	 V		nonessential	hypothetical protein
+4288405 	 coding 	 4288260..4291529	4288260	4291529	-	1089	15610959	mmpL8	Rv3823c	COG2409R	 II.C.4		nonessential	integral membrane transport protein
+4289953 	 coding 	 4288260..4291529	4288260	4291529	-	1089	15610959	mmpL8	Rv3823c	COG2409R	 II.C.4		nonessential	integral membrane transport protein
+4290564 	 coding 	 4288260..4291529	4288260	4291529	-	1089	15610959	mmpL8	Rv3823c	COG2409R	 II.C.4		nonessential	integral membrane transport protein
+4290827 	 coding 	 4288260..4291529	4288260	4291529	-	1089	15610959	mmpL8	Rv3823c	COG2409R	 II.C.4		nonessential	integral membrane transport protein
+4293072 	 coding 	 4291639..4293174	4291639	4293174	-	511	15610960	papA1	Rv3824c	COG1020Q	 I.I		nonessential	polyketide synthase associated protein
+4296015 	 coding 	 4293225..4299605	4293225	4299605	-	2126	15610961	pks2	Rv3825c	COG3321Q	 I.I		nonessential	polyketide synthase PKS2
+4311871 	 coding 	 4311704..4312669	4311704	4312669	-	321	15610974	pheA	Rv3838c	COG0077E	 I.D.4		nonessential	prephenate dehydratase
+4313128 	 coding 	 4312765..4313541	4312765	4313541	+	258	15610975	-	Rv3839	-	 V		nonessential	hypothetical protein
+4314645 	 coding 	 4314178..4314723	4314178	4314723	+	181	15610977	bfrB	Rv3841	COG1528P	 I.G.14		nonessential	bacterioferritin BfrB
+4315384 	 coding 	 4314738..4315562	4314738	4315562	-	274	15610978	glpQ1	Rv3842c	COG0584C	 I.C.1		nonessential	glycerophosphoryl diester phosphodiesterase
+4316566 	 coding 	 4315568..4316596	4315568	4316596	-	342	15610979	-	Rv3843c	-	 II.C.5		nonessential	transmembrane protein
+4318425 	 coding 	 4316597..4318774	4316597	4318774	I				IG3908_Rv3843c-Rv3844					
+4318703 	 coding 	 4316597..4318774	4316597	4318774	I				IG3908_Rv3843c-Rv3844					
+4319652 	 coding 	 4319641..4320703	4319641	4320703	I				IG3910_Rv3845-Rv3846					
+4320050 	 coding 	 4319641..4320703	4319641	4320703	I				IG3910_Rv3845-Rv3846					
+4323006 	 coding 	 4322326..4323234	4322326	4323234	+	302	15610984	-	Rv3848	COG2119S	 II.C.5		nonessential	transmembrane protein
+4329782 	 coding 	 4329615..4330038	4329615	4330038	I				IG3922_Rv3857c-Rv3858c					
+4334425 	 coding 	 4331498..4336081	4331498	4336081	-	1527	15610995	gltB	Rv3859c	COG0067E,COG0069E,COG0070E	 I.D.1		essential	ferredoxin-dependent glutamate synthase [NADPH] large subunit
+4336597 	 coding 	 4336082..4336776	4336082	4336776	I				IG3924_Rv3859c-Rv3860					
+4340330 	 coding 	 4340270..4341478	4340270	4341478	+	402	15611000	-	Rv3864	-	 V		essential	hypothetical protein
+4357597 	 coding 	 4357593..4359782	4357593	4359782	-	729	15611015	-	Rv3879c	-	 VI		nonessential	hypothetical protein
+4359195 	 coding 	 4357593..4359782	4357593	4359782	-	729	15611015	-	Rv3879c	-	 VI		nonessential	hypothetical protein
+4365983 	 coding 	 4364979..4366838	4364979	4366838	-	619	15611020	-	Rv3884c	COG0464O	 VI		nonessential	CBXX/CFQX family protein
+4366195 	 coding 	 4364979..4366838	4364979	4366838	-	619	15611020	-	Rv3884c	COG0464O	 VI		nonessential	CBXX/CFQX family protein
+4367649 	 coding 	 4366908..4368521	4366908	4368521	-	537	15611021	-	Rv3885c	-	 II.C.5		nonessential	hypothetical protein
+4372353 	 coding 	 4371681..4372706	4371681	4372706	-	341	15611024	-	Rv3888c	COG0455D,COG3640D	 II.C.4		nonessential	hypothetical protein
+4372661 	 coding 	 4371681..4372706	4371681	4372706	-	341	15611024	-	Rv3888c	COG0455D,COG3640D	 II.C.4		nonessential	hypothetical protein
+4373475 	 coding 	 4372800..4373630	4372800	4373630	-	276	15611025	-	Rv3889c	-	 VI		nonessential	hypothetical protein
+4373496 	 coding 	 4372800..4373630	4372800	4373630	-	276	15611025	-	Rv3889c	-	 VI		nonessential	hypothetical protein
+4374228 	 coding 	 4374049..4374372	4374049	4374372	-	107	15611027	esxD	Rv3891c	-	 VI		nonessential	ESAT-6 like protein EsxD
+4377033 	 coding 	 4376262..4380452	4376262	4380452	-	1396	15611030	-	Rv3894c	COG1674D	 II.C.5		nonessential	hypothetical protein
+4377447 	 coding 	 4376262..4380452	4376262	4380452	-	1396	15611030	-	Rv3894c	COG1674D	 II.C.5		nonessential	hypothetical protein
+4381944 	 coding 	 4381943..4382851	4381943	4382851	-	302	15611032	-	Rv3896c	COG3953R	 IV.A		nonessential	hypothetical protein
+4383094 	 coding 	 4383008..4383640	4383008	4383640	-	210	15611033	-	Rv3897c	-	 V		nonessential	hypothetical protein
+4383655 	 coding 	 4383653..4383985	4383653	4383985	-	110	15611034	-	Rv3898c	-	 V		nonessential	hypothetical protein
+4384007 	 coding 	 4383986..4384146	4383986	4384146	I				IG3963_Rv3898c-Rv3899c					
+4385187 	 coding 	 4384147..4385379	4384147	4385379	-	410	15611035	-	Rv3899c	-	 V		nonessential	hypothetical protein
+4386142 	 coding 	 4385373..4386308	4385373	4386308	-	311	15611036	-	Rv3900c	-	 V		nonessential	hypothetical protein
+4386228 	 coding 	 4385373..4386308	4385373	4386308	-	311	15611036	-	Rv3900c	-	 V		nonessential	hypothetical protein
+4391553 	 coding 	 4391097..4391606	4391097	4391606	-	169	15611042	-	Rv3906c	-	 V		nonessential	hypothetical protein
+4393178 	 coding 	 4393074..4393448	4393074	4393448	I				IG3972_Rv3907c-Rv3908					
+4394210 	 coding 	 4394192..4396600	4394192	4396600	+	802	15611045	-	Rv3909	-	 V		nonessential	hypothetical protein
+4395387 	 coding 	 4394192..4396600	4394192	4396600	+	802	15611045	-	Rv3909	-	 V		nonessential	hypothetical protein
+4395964 	 coding 	 4394192..4396600	4394192	4396600	+	802	15611045	-	Rv3909	-	 V		nonessential	hypothetical protein
+4403900 	 coding 	 4403192..4404412	4403192	4404412	+	406	57117169	-	Rv3915	COG0860M,COG3409M	 II.B.4		essential	hydrolase
+4407588 	 coding 	 4407528..4408202	4407528	4408202	-	224	15611055	gidB	Rv3919c	COG0357M	 III.C	DR-sm	nonessential	glucose-inhibited division protein B
+4407970 	 coding 	 4407528..4408202	4407528	4408202	-	224	15611055	gidB	Rv3919c	COG0357M	 III.C	DR-sm	nonessential	glucose-inhibited division protein B
+4408156 	 coding 	 4407528..4408202	4407528	4408202	-	224	15611055	gidB	Rv3919c	COG0357M	 III.C	DR-sm	nonessential	glucose-inhibited division protein B
+4408920 	 coding 	 4408898..4408968	4408898	4408968	I				IG3985_Rv3920c-Rv3921c					
+4408923 	 coding 	 4408898..4408968	4408898	4408968	I				IG3985_Rv3920c-Rv3921c					
