@@ -159,7 +159,7 @@ def get_lineage_coll(dict_positions):
     print("This samples belongs to linage " + lineage)
     return(lineage)
 
-
+"""
 def get_lineage_homolka(dict_positions):
     species = 'unknown'
     lineage = 'unknown'
@@ -238,3 +238,4 @@ def get_lineage_homolka(dict_positions):
    return species,lineage
 
 #get_lineage_coll(dict_pos)
+"""
