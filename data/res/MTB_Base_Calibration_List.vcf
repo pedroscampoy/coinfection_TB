@@ -181,7 +181,6 @@ MTB_anc	2154445	.	c	a	.	.	REG=coding;SVTYPE=SNP;GENE=Rv1908c:katG:2156111:215388
 MTB_anc	2154682	.	g	a	.	.	REG=coding;SVTYPE=SNP;GENE=Rv1908c:katG:2156111:2153889;AMINO=Trp477STOP;RES=isoniazid_(INH)
 MTB_anc	2154700	.	a	g	.	.	REG=coding;SVTYPE=SNP;GENE=Rv1908c:katG:2156111:2153889;AMINO=Gln471Arg;RES=isoniazid_(INH)
 MTB_anc	2154724	.	g	t	.	.	REG=coding;SVTYPE=SNP;GENE=Rv1908c:katG:2156111:2153889;AMINO=Arg463Leu;RES=phylo_(not_Euro-American,_M._africanum,_M._bovis,_M_._canettii,_M._caprae,_M._Microti,_M._pinipedii,_Beijing,_Delhi/CAS,_EAI)
-MTB_anc	2155167	.	gc	ca	.	.	REG=coding;SVTYPE=SNP;GENE=Rv1908c:katG:2156111:2153889;AMINO=Ser315Thr;RES=isoniazid_(INH)
 MTB_anc	2155168	.	g	c	.	.	REG=coding;SVTYPE=SNP;GENE=Rv1908c:katG:2156111:2153889;AMINO=Ser315Thr;RES=isoniazid_(INH)
 MTB_anc	2155168	.	g	a	.	.	REG=coding;SVTYPE=SNP;GENE=Rv1908c:katG:2156111:2153889;AMINO=Ser315Asn;RES=isoniazid_(INH)
 MTB_anc	2155168	.	g	t	.	.	REG=coding;SVTYPE=SNP;GENE=Rv1908c:katG:2156111:2153889;AMINO=Ser315Ile;RES=isoniazid_(INH)

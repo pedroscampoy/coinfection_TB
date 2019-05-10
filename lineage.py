@@ -230,14 +230,14 @@ def get_lineage_snp(dict_positions):
         
         if str(position) in dict_lineage_position.keys():
             if dict_positions[position] == dict_lineage_position[str(position)][0]:
-                resistance = dict_lineage_position[str(position)][1]
-                #print(resistance)
-                list_lineage.append(resistance)
+                lineage = dict_lineage_position[str(position)][1]
+                
+                list_lineage.append(lineage + "\n")
     if len(list_lineage) > 0:
-        print("This strain has those lineage positions:" + ": ".join(list_lineage))
+        print("This strain has those lineage positions:\n: " + ": ".join(list_lineage))
         return list_lineage
     else:
-        print("No lineage were found")
+        print("No lineage were found\n")
 
 
 """
