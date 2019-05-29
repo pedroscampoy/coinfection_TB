@@ -58,12 +58,12 @@ def import_VCF42_to_pandas(vcf_file, sep='\t'):
         dataframe['REF_AD'] = dataframe['AD'].str.split(",").str[0]
         #dataframe['ALT_AD'] = dataframe['AD'].str.split(",").str[1]
         dataframe['ALT_AD'] = dataframe.apply(calculate_ALT_AD, axis=1)
-
+        dataframe[['gt0','gt1']] = dataframe['GT'].str.split(r'[/|\|]', expand=True)
                 
         to_float = ['QUAL', 'AC', 'af', 'AN', 'BaseQRankSum', 'DP', 'ExcessHet', 'FS',
        'MLEAC', 'MLEAF', 'MQ', 'MQRankSum', 'QD', 'ReadPosRankSum', 'SOR','GQ','ALT_AD', 'REF_AD']
         
-        to_int = ['POS', 'len_AD']
+        to_int = ['POS', 'len_AD', 'gt0', 'gt1']
         
         to_str = ['#CHROM','REF','ALT', 'FILTER']
         
@@ -182,3 +182,53 @@ def distplot_sns(data_frame_vcf, name):
     #plt.savefig(os.path.join('img', name_svg), format="svg")
     #plt.savefig(os.path.join('img', name_png), format="png")
     plt.show()
+
+def add_window_distance(vcf_df, window_size=10):
+    list_pos = vcf_df.POS.to_list() #all positions
+    set_pos = set(list_pos) #to set for later comparing
+    max_pos = max(vcf_df.POS.to_list()) #max to iter over positions (independent from reference)
+
+    all_list = list(range(1, max_pos + 1)) #create a list to slide one by one
+    
+    #Create sets
+    set_2 = set()
+    set_3 = set()
+    set_4 = set()
+    set_5 = set()
+    
+    sets = [set_2, set_3, set_4, set_5]
+    
+    #Slide over windows
+    for i in range(0,max_pos,1):
+        window_pos = all_list[i:i+window_size]
+        set_window_pos = set(window_pos)
+        #How many known positions are in every window for later clasification
+        num_conglomerate = set_pos & set_window_pos
+        
+        if len(num_conglomerate) > 4:
+            set_5.update(num_conglomerate)
+        elif len(num_conglomerate) == 4:
+            set_4.update(num_conglomerate)
+        elif len(num_conglomerate) == 3:
+            set_3.update(num_conglomerate)
+        elif len(num_conglomerate) == 2:
+            set_2.update(num_conglomerate)
+            
+    #Remove positions in a higher number of sets
+    for set_num in range(0, len(sets)):
+        if set_num < (len(sets) - 1):
+            sets[set_num] = sets[set_num] - sets[set_num + 1]
+            
+    for index, _ in vcf_df.iterrows():
+        if vcf_df.loc[index,'POS'] in sets[0]:
+            vcf_df.loc[index, 'Window_10'] = 2
+        elif vcf_df.loc[index,'POS'] in sets[1]:
+            vcf_df.loc[index, 'Window_10'] = 3
+        elif vcf_df.loc[index,'POS'] in sets[2]:
+            vcf_df.loc[index, 'Window_10'] = 4
+        elif vcf_df.loc[index,'POS'] in sets[3]:
+            vcf_df.loc[index, 'Window_10'] = 5
+        else:
+            vcf_df.loc[index, 'Window_10'] = 1
+            
+    vcf_df['Window_10'] = vcf_df['Window_10'].astype(int)
