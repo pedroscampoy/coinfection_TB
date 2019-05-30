@@ -116,7 +116,44 @@ def add_snp_distance(vcf_df):
             
     return vcf_df
 
-def scatter_vcf_pos(vcf_df, name, homoz=0.95):
+def scatter_vcf_pos(vcf_df, name):
+    #filter_homoz_top = homoz
+    #filter_homoz_bottom = (1 - filter_homoz_top)
+    
+    y = vcf_df['AF'][[(vcf_df.AC != 2) & (vcf_df.gt0 != 1)]]
+    x = vcf_df['POS'][[(vcf_df.AC != 2) & (vcf_df.gt0 != 1)]]
+    plt.figure(figsize=(50,15))
+    plt.margins(x=0.01, y=0.01, tight=True)
+    
+    #mean = vcf_df['AF'][(vcf_df['AF'] <= filter_homoz_top) & (vcf_df['AF'] >= filter_homoz_bottom)].mean(axis = 0)
+    mean = vcf_df['AF'][(vcf_df.AC != 2) & (vcf_df.gt0 != 1)].mean(axis = 0)
+    
+    col_mean = np.where(vcf_df['AF'][(vcf_df.AC != 2) & (vcf_df.gt0 != 1)] > mean,'c','salmon')
+    label_fontsize = 30
+    tick_fontsize = 20
+    plt.ylabel('Allele Frequency', fontsize=label_fontsize)
+    plt.xlabel('Genome Position', fontsize=label_fontsize)
+    plt.title(name, fontsize=label_fontsize)
+    
+    plt.ylim(0, 1)
+    
+    plt.yticks(fontsize=tick_fontsize)
+    plt.xticks(fontsize=tick_fontsize) #rotation=90
+    
+    # Turn on the minor TICKS, which are required for the minor GRID
+    plt.minorticks_on()
+    
+    plt.grid(True)
+
+    plt.scatter(x, y, color=col_mean, alpha=0.8, s=50)
+    #name_svg = name + ".svg"
+    #name_png = name + ".png"
+    #plt.savefig(os.path.join('img', name_svg), format="svg")
+    #plt.savefig(os.path.join('img', name_png), format="png")
+    plt.show()
+
+
+def scatter_vcf_pos_legacy(vcf_df, name, homoz=0.95):
     filter_homoz_top = homoz
     filter_homoz_bottom = (1 - filter_homoz_top)
     
@@ -125,7 +162,8 @@ def scatter_vcf_pos(vcf_df, name, homoz=0.95):
     plt.figure(figsize=(50,15))
     plt.margins(x=0.01, y=0.01, tight=True)
     
-    mean = vcf_df['AF'][(vcf_df['AF'] <= filter_homoz_top) & (vcf_df['AF'] >= filter_homoz_bottom)].mean(axis = 0)
+    #mean = vcf_df['AF'][(vcf_df['AF'] <= filter_homoz_top) & (vcf_df['AF'] >= filter_homoz_bottom)].mean(axis = 0)
+    mean = vcf_df['AF'][(vcf_df.AC != 2) & (vcf_df.gt0 != 1)].mean(axis = 0)
     
     col_mean = np.where(vcf_df['AF'][(vcf_df['AF'] <= filter_homoz_top) & (vcf_df['AF'] >= filter_homoz_bottom)] > mean,'c','salmon')
     label_fontsize = 30
