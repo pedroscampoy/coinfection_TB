@@ -120,8 +120,8 @@ def scatter_vcf_pos(vcf_df, name):
     #filter_homoz_top = homoz
     #filter_homoz_bottom = (1 - filter_homoz_top)
     
-    y = vcf_df['AF'][[(vcf_df.AC != 2) & (vcf_df.gt0 != 1)]]
-    x = vcf_df['POS'][[(vcf_df.AC != 2) & (vcf_df.gt0 != 1)]]
+    y = vcf_df['AF'][(vcf_df.AC != 2) & (vcf_df.gt0 != 1)]
+    x = vcf_df['POS'][(vcf_df.AC != 2) & (vcf_df.gt0 != 1)]
     plt.figure(figsize=(50,15))
     plt.margins(x=0.01, y=0.01, tight=True)
     
