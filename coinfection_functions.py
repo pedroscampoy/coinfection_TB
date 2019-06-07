@@ -214,11 +214,11 @@ def distplot_sns(data_frame_vcf, name):
     plt.xlabel('Density')
     plt.ylim(0, 1)
     plt.xlim(0, 800)
-    #name_svg = name + "_den.svg"
-    #name_png = name + "_den.png"
-    #plt.grid(True)
-    #plt.savefig(os.path.join('img', name_svg), format="svg")
-    #plt.savefig(os.path.join('img', name_png), format="png")
+    name_svg = name + "_den.svg"
+    name_png = name + "_den.png"
+    plt.grid(True)
+    plt.savefig(os.path.join('img', name_svg), format="svg")
+    plt.savefig(os.path.join('img', name_png), format="png")
     plt.show()
 
 def add_window_distance(vcf_df, window_size=10):
