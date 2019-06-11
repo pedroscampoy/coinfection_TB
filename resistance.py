@@ -381,8 +381,10 @@ def get_resistance_snp(dict_positions):
                 for nucleotide in last_nucleotides:
                     nucleotides.append(nucleotide)
             if dict_positions[position] in nucleotides:
-                resistance = dict_resistance_position[int(position)][1]
-                list_resistance.append(str(position))
+                snp_resist = dict_positions[position] #ALT
+                resistance = dict_resistance_position[int(position)][1] #Resist name
+                list_resistance.append(str(position)) #POS
+                list_resistance.append(snp_resist)
                 #Evaluate High confidence
                 if (int(position) in dict_high_confidence.keys()) and (dict_high_confidence[int(position)] in nucleotides):
                      list_resistance.append("*")

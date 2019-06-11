@@ -61,7 +61,7 @@ def import_VCF42_to_pandas(vcf_file, sep='\t'):
         dataframe[['gt0','gt1']] = dataframe['GT'].str.split(r'[/|\|]', expand=True)
                 
         to_float = ['QUAL', 'AC', 'af', 'AN', 'BaseQRankSum', 'DP', 'ExcessHet', 'FS',
-       'MLEAC', 'MLEAF', 'MQ', 'MQRankSum', 'QD', 'ReadPosRankSum', 'SOR','GQ','ALT_AD', 'REF_AD']
+       'MLEAC', 'MLEAF', 'MQ', 'MQRankSum', 'QD', 'ReadPosRankSum', 'SOR','GQ','ALT_AD', 'REF_AD', 'InbreedingCoeff']
         
         to_int = ['POS', 'len_AD', 'gt0', 'gt1']
         
